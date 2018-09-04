@@ -17,7 +17,7 @@ int main(int argc, char **argv) {
 
     /* we're not going to worry about long lines */
     char buf[4096];
-
+    //检查文件结尾是否已经到达,并且文件读入没有出错
     while (!feof(stdin) && !ferror(stdin)) {
         if (!fgets(buf, sizeof(buf), stdin)) {
             break;
