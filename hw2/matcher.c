@@ -16,8 +16,6 @@ typedef int bool;
  *
  * Add any additional inputs to function signature if necessary.
  */
-
-
 /**
  * Returns true if partial_line matches pattern, starting from
  * the first char of partial_line.
@@ -64,9 +62,9 @@ int rgrep_matches(char *line, char *pattern) {
     //BOOL型用来判断转义字符和多重字符等等
     bool is_match=FALSE;
     struct map previous={'a','0',FALSE};		//这个map用来记录前一个token中字符出现的次数
-    for(int i=0,k=0;i<length;i++)
+    for(int i=0,k=0,global=0;i<length;i++)
     {
-        
+        //global是全局字符比对的起始位置，字符串匹配的时候要有一个记录起始位置的变量！！！
         //想法：针对pattern，在循环内组装成一个子pattern，由这个子pattern进行匹配
         int head=k,back=k;
         if(head<plength && back<plength)
@@ -214,6 +212,8 @@ int rgrep_matches(char *line, char *pattern) {
                     else
                     {
                         k=0;
+                        i=global;
+                        global++;
                     }
                 }
             }
@@ -229,7 +229,9 @@ int rgrep_matches(char *line, char *pattern) {
                         }
                         else
                         {
-                            k=0;        //从头开始
+                            k=0;        //从头开始的同时，i不能动！！！！
+                            i=global;
+                            global++;
                         }
                     }
                     else            //如果match了，那么要修改,同时k增加
