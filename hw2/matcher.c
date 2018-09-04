@@ -17,6 +17,7 @@ typedef int bool;
  * Add any additional inputs to function signature if necessary.
  */
 
+
 /**
  * Returns true if partial_line matches pattern, starting from
  * the first char of partial_line.
@@ -122,14 +123,14 @@ int rgrep_matches(char *line, char *pattern) {
                         //？的处理暂时是任意字符
                         if(pattern[back]=='?')
                         {
-                            i--;		//我的处理方式是?处直接跳过不处理，交给下一个token来处理
+                            i--;
                             is_match=TRUE;
                         }
                         
                         //(5)考虑三个字符组成的情况,'+'的情况
                         else if(pattern[back]=='+')
                         {
-                            if(line[i]==pattern[head]||pattern[head]=='.')
+                            if(line[i]==pattern[head]||now=='.')
                             {
                                 is_match=TRUE;
                                 previous.c=pattern[head];
@@ -142,7 +143,7 @@ int rgrep_matches(char *line, char *pattern) {
                         else
                         {
                             back--;
-                            if(line[i]==now||line[i]=='.')
+                            if(line[i]==now||now=='.')
                                 is_match=TRUE;
                             else
                                 is_match=FALSE;
@@ -152,7 +153,7 @@ int rgrep_matches(char *line, char *pattern) {
                     else
                     {
                         //不是？或者+的情况
-                        if(line[i]==now||line[i]=='.')
+                        if(line[i]==now||now=='.')
                             is_match=TRUE;
                         else
                             is_match=FALSE;
