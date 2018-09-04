@@ -106,16 +106,13 @@ int rgrep_matches(char *line, char *pattern) {
                 //(3)开头是'\'，表明可能会有三个字符的token情况
                 if(now=='\\')
                 {
-                    
+                    head++;
+                    now=pattern[head];
                     if((back+1)<plength)
                     {
                         //这里考虑到 '\++' 这种情况，back不一定只比head大0或1
                         back++;
-                        head++;
-                        now=pattern[head];
-                        
                         //不是特殊字符，那么back就只比head大一，组成一个token
-                        
                         
                         //(4)考虑三个字符组成的情况,?
                         //？的处理暂时是任意字符
