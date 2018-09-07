@@ -1,15 +1,7 @@
 
 #include <stdio.h>
 int sub_match(char *pattern,char *text,int no_backslash);
-/*int normal_match(char *pattern,char *text)
-{
-    if(*text=='\0')
-        return 1;
-    if(*text!='\0'&&(pattern[0]=='.'||pattern[0]==*text))
-        return sub_match(pattern+1, text+1,no_backslash);
-    return 0;
-}*/
-
+int matchquest_2(char *pattern,char *text,int no_backslash);
 int matchplus(char c,char *pattern,char *text,int no_backslash)      //匹配加号，一个或者多个的情况
 {
     do{
@@ -17,12 +9,21 @@ int matchplus(char c,char *pattern,char *text,int no_backslash)      //匹配加
             return 1;
     }
     while(*text!='\0'&&(*text++==c||c=='.'));
-/*
-    {
-        if(sub_match(pattern, text, no_backslash^1))
-            return 1;
-    }
- */
+    
+    return 0;
+}
+int matchquest(char *pattern,char *text,int no_backslash)  //第一种方式，pattern跳过但text不动
+{
+    if(pattern[0]=='\0')
+        return 1;
+    int method_1=sub_match(pattern+2, text, no_backslash|1);
+    int method_2=matchquest_2(pattern, text, no_backslash|1);
+    return method_1||method_2;
+}
+int matchquest_2(char *pattern,char *text,int no_backslash)     //第二种方式，消耗x?
+{
+    if(*text!='\0'&&(pattern[0]=='.'||pattern[0]==*text))
+        return sub_match(pattern+2, text+1,no_backslash|1);
     return 0;
 }
 
@@ -47,8 +48,8 @@ int sub_match(char *pattern,char *text,int no_backslash)
     if(no_backslash && pattern[0]=='\\')        //转义字符直接跳过到下个处理,目前情况是假定输入合法
         return sub_match(pattern+1, text, 0);
     
-    if(no_backslash && pattern[1]=='?')     //token结束
-        return sub_match(pattern+2, text, no_backslash|1);
+    if(pattern[1]=='?')     //token结束   ?的处理方式，如果
+        return matchquest(pattern, text, no_backslash|1);
     
     if(*text!='\0'&&(pattern[0]=='.'||pattern[0]==*text))
     {
