@@ -1,15 +1,3 @@
-/**
- * As in every CS skeleton, the contents of this file are
- * only a suggestion. Please feel free to change anything.
- */
-
-//
-//  main.c
-//  newrgrep
-//
-//  Created by 729790146 on 18/9/6.
-//  Copyright © 2018年 729790146. All rights reserved.
-//
 
 #include <stdio.h>
 int sub_match(char *pattern,char *text,int no_backslash);
@@ -24,11 +12,17 @@ int sub_match(char *pattern,char *text,int no_backslash);
 
 int matchplus(char c,char *pattern,char *text,int no_backslash)      //匹配加号，一个或者多个的情况
 {
-    while(*text!='\0'&&(*text++==c||c=='.'))
+    do{
+        if(sub_match(pattern, text, no_backslash|1))
+            return 1;
+    }
+    while(*text!='\0'&&(*text++==c||c=='.'));
+/*
     {
         if(sub_match(pattern, text, no_backslash^1))
             return 1;
     }
+ */
     return 0;
 }
 
@@ -59,8 +53,19 @@ int sub_match(char *pattern,char *text,int no_backslash)
     if(*text!='\0'&&(pattern[0]=='.'||pattern[0]==*text))
     {
         if(pattern[1]=='+')
-            return matchplus(pattern[0], pattern+2, text,no_backslash);
-        return sub_match(pattern+1, text+1, no_backslash|1);
+            return matchplus(pattern[0], pattern+2, text+1, no_backslash);
+        return sub_match(pattern+1, text+1,no_backslash|1);
+    }
+    return 0;
+}
+
+int match(char *pattern,char* text)
+{
+    while (*text!='\0') {
+        //针对每个从*text++下标开始的字字符串进行匹配
+        if(sub_match(pattern,text,1))
+            return 1;
+        text++;
     }
     return 0;
 }
