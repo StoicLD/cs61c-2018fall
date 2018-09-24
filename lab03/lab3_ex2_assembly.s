@@ -25,12 +25,12 @@ main:
     la t1, source
     la t2, dest
 loop:
-    slli t3, t0, 2
-    add t4, t1, t3
-    lw t5, 0(t4)
-    beq t5, x0, exit
-    add t6, t2, t3
-    sw t5, 0(t6)
+    slli t3, t0, 2      #t3 represent the index of array
+    add t4, t1, t3      #t4 is the index of array source
+    lw t5, 0(t4)        #
+    beq t5, x0, exit    #t5, the value of source[k]
+    add t6, t2, t3      # t6 is the index of dest
+    sw t5, 0(t6)        #dest[k] = source[k];  t6 is the index of 
     addi t0, t0, 1
     jal x0, loop  
 exit:
