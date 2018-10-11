@@ -57,29 +57,36 @@ map:
 	# remember that each node is 12 bytes long: 4 for the array pointer, 4 for the size of the array, and 4 more for the pointer to the next node 
 mapLoop: 
 	#add	t1, s0, x0		# load the address of the array of current node into t1 
+
+	#(1) we should use lw not add, because we want the value of 0(s0)
 	lw 	t1, 0(s0)
-	lw	t2, 4(s0)		# load the size of the node's array into t2 
-	
+	lw	t2, 4(s0)		# load the size of the node's array into t2 	
 
 	#this may not be true 
+	#(2) should use offset=to*4, because int is 4 bytes
 	slli a0, t0, 2
 	#add	t1, t1, t0		# offset the array address by the count 
 	add	t1, t1, a0
 	lw	a0, 0(t1)		# load the value at that address into a0 
+
+	#(3) we should save t1 to t3 since t1 will be changed in mystery
 	add t3, t1, x0		#save t1 to t3 because t1 will change in mystery
-	#we don't save ra,so change it	 
+	
+	#(4) we don't save ra,so change it	 
 	#jalr s1
 	jalr ra, 0(s1)			# call the function on that value. 
 	 
-	#t1 is overlaped 
+	#(5) t1 is overloading, so we need t3 instead of t1 
 	#sw	a0, 0(t1)		# store the returned value back into the array 
 	sw  a0, 0(t3)
 	addi	t0, t0, 1		# increment the count 
 	bne	t0, t2, mapLoop	# repeat if we haven't reached the array size yet 
 	 
-	#we should load word not address
+	#(6) we should not address but word
 	#la	a0, 8(s0)		# load the address of the next node into a0 
 	lw  a0, 8(s0)
+
+	#(7) then we want a copy of a1 , so just use add not lw
 	#lw	a1, 0(s1)		# put the address of the function back into a1 to prepare for the recursion 
 	add a1, s1, x0
 
