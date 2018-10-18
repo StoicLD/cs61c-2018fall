@@ -9,6 +9,7 @@ def splitDocument(document):
 
 def toPairs(word):
     """ Create pairs where the word is the key and 1 is the value """
+    #初始的键值全部设置为1
     return (word, 1)
 
 def sumCounts(a, b):
@@ -18,6 +19,7 @@ def sumCounts(a, b):
 def wordcount(file_name, output="spark-wc-out-wordcount"):
     sc = SparkContext("local[8]", "WordCount")
     """ Reads in a sequence file FILE_NAME to be manipulated """
+    #读取一系列的文件，这个文件使我们手动分割的
     file = sc.sequenceFile(file_name)
 
     """

@@ -12,22 +12,26 @@ def flatMapFunc(document):
     Is there a way to combine these three things and make a key, value pair?
     """
     """ Your code here. """
-    return re.findall(r"\w+", document[1])
+    #说明：这里讲word和文档号组成key，然后index单独在
+
+    # ((word1, doc_id1), [index1]), (word2, doc_id1), [index2]), .... )
+    return ( ((word, document[0]), [index])\
+            for index,word in enumerate(re.findall(r"\w+", document[1])))
 
 def mapFunc(arg):
     """ Your code here. """
+    #()
     return (arg, arg)
 
 def reduceFunc(arg1, arg2):
     """ Your code here. """
-    return arg1
+    return arg1 + arg2
 
 def index(file_name, output="spark-wc-out-index"):
     sc = SparkContext("local[8]", "Index")
     file = sc.sequenceFile(file_name)
 
     indices = file.flatMap(flatMapFunc) \
-                  .map(mapFunc) \
                   .reduceByKey(reduceFunc)
 
     indices.coalesce(1).saveAsTextFile(output)
