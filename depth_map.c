@@ -4,7 +4,7 @@
  * ANY MODIFICATIONS TO THIS FILE WILL BE OVERWRITTEN DURING GRADING
  */
 
-#include "calc_depth.h"
+#include "calc_depth_optimized.h"
 #include "utils.h"
 #include <errno.h>
 #include <unistd.h>
@@ -92,7 +92,7 @@ int main(int argc, char **argv) {
         allocation_failed();
     }
     srand((unsigned int) time(NULL));
-    for (i = 0; i < depth.width * depth.height; i++) {
+    for (size_t i = 0; i < depth.width * depth.height; i++) {
         depth.data[i] = rand();
     }
 

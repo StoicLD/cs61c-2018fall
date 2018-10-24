@@ -4,6 +4,9 @@
  * ANY MODIFICATIONS TO THIS FILE WILL BE OVERWRITTEN DURING GRADING
  */
 
+#include <stdbool.h>
+#include <stdlib.h>
+
 #ifndef UTILS_H
 #define UTILS_H
 
