@@ -8,6 +8,9 @@ default: clean check benchmark
 
 debug: clean all_debug
 
+queue: clean benchmark
+	qsub queue.sh
+
 all: $(BINARIES)
 
 all_debug: CC += -DDEBUG -ggdb3
