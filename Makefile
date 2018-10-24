@@ -1,6 +1,6 @@
 BINARIES = benchmark check depth_map
 CC = gcc
-CFLAGS = -O3 -DNDEBUG -g0 -std=c99 -Wall -march=corei7 -maes -mpclmul -mpopcnt
+CFLAGS = -O3 -DNDEBUG -g0 -std=c99 -Wall -march=haswell
 LFLAGS = -lm
 OMP_NESTED = TRUE
 
