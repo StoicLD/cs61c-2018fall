@@ -13,7 +13,7 @@ queue: clean benchmark
 
 all: $(BINARIES)
 
-all_debug: CC += -DDEBUG -ggdb3
+all_debug: CFLAGS += -DDEBUG -ggdb3
 all_debug: all
 
 benchmark: benchmark.o calc_depth_naive.o calc_depth_optimized.o utils.o
