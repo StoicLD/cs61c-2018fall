@@ -20,8 +20,8 @@
 
 __m128 square_e_d(__m128 x, __m128 y)
 {
-    __m128 de =  __mm_sub__ps(x, y);
-    return _mm_mul_ps(x, y);
+    __m128 de =  _mm_sub_ps(x, y);
+    return _mm_mul_ps(de, de);
 }
 
 void calc_depth_optimized(float *depth, float *left, float *right,
@@ -69,21 +69,23 @@ void calc_depth_optimized(float *depth, float *left, float *right,
                         int left_y = y + box_y;
                         int right_y = y + dy + box_y;
 
-                        __m128 accumalte =  _mm_setzero_si128();                        
+                        __m128 accumalte =  _mm_setzero_ps();                        
                         int box_x = -feature_width;
-                        for ( ; box_x <= feature_width - 4; box_x += 4) 
+                        for ( ; box_x <= feature_width - 3; box_x += 4) 
                         {
-                            __m128 rigth_four = _mm_loadu_ps ((__m128*)(right + right_y*image_width + x + box_x));
-                            __m128 left_four = _mm_loadu_ps ((__m128*)(left + left_y*image_width + x + dx +box_x));
+			    int left_x = x + box_x;
+			    int right_x = x + dx + box_x; 
+                            __m128 rigth_four = _mm_loadu_ps ((right + right_y*image_width + right_x));
+                            __m128 left_four = _mm_loadu_ps ((left + left_y*image_width + left_x));
 
                             //以四个为一组计算欧式距离
                             __m128 edu_dis = square_e_d(rigth_four, left_four);
 
                             //累加
-                            accumalte = _mm_add_epi32(edu_dis, accumalte);
+                            accumalte = _mm_add_ps(edu_dis, accumalte);
                         }
 
-                        _mm_storeu_si128((__m128i*)sum_by_four, accumalte);
+                        _mm_storeu_ps(sum_by_four, accumalte);
 
                         for(int j = 0; j<4 ; j++)
                         {
@@ -100,8 +102,8 @@ void calc_depth_optimized(float *depth, float *left, float *right,
                                     right[right_y * image_width + right_x]
                                     );
                         }                    
-
-
+		    if(image_height == 10)
+		    	printf("%s %f\n","current diff is:",squared_diff);
                     //-------------------------------------------------------
                     if (min_diff == -1 || min_diff > squared_diff
                             || (min_diff == squared_diff
@@ -123,4 +125,5 @@ void calc_depth_optimized(float *depth, float *left, float *right,
             }
         }
     }
+}
 }
