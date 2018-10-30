@@ -68,13 +68,12 @@ void calc_depth_optimized(float *depth, float *left, float *right,
 
                         int left_y = y + box_y;
                         int right_y = y + dy + box_y;
-
-                        __m128 accumalte =  _mm_setzero_ps();                        
+                        __m128 accumalte =  _mm_setzero_ps();
                         int box_x = -feature_width;
-                        for ( ; box_x <= feature_width - 3; box_x += 4) 
+                        for ( ; box_x <= feature_width - 3; box_x += 4)
                         {
-			    int left_x = x + box_x;
-			    int right_x = x + dx + box_x; 
+            			    int left_x = x + box_x;
+			                int right_x = x + dx + box_x;
                             __m128 rigth_four = _mm_loadu_ps ((right + right_y*image_width + right_x));
                             __m128 left_four = _mm_loadu_ps ((left + left_y*image_width + left_x));
 
@@ -89,7 +88,7 @@ void calc_depth_optimized(float *depth, float *left, float *right,
 
                         for(int j = 0; j<4 ; j++)
                         {
-                            squared_diff += sum_by_four[j];   
+                            squared_diff += sum_by_four[j];
                         }
 
                         //特殊情况的处理
@@ -101,9 +100,8 @@ void calc_depth_optimized(float *depth, float *left, float *right,
                                     left[left_y * image_width + left_x],
                                     right[right_y * image_width + right_x]
                                     );
-                        }                    
-		    if(image_height == 10)
-		    	printf("%s %f\n","current diff is:",squared_diff);
+                        }
+                    }
                     //-------------------------------------------------------
                     if (min_diff == -1 || min_diff > squared_diff
                             || (min_diff == squared_diff
@@ -124,6 +122,6 @@ void calc_depth_optimized(float *depth, float *left, float *right,
                 depth[y * image_width + x] = 0;
             }
         }
-    }
+
 }
 }

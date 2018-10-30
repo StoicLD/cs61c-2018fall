@@ -1,0 +1,1535 @@
+x is : 2 y is : 2   current diff is: 96392.000000
+x is : 2 y is : 2   current diff is: 117694.000000
+x is : 2 y is : 2   current diff is: 154415.000000
+x is : 2 y is : 2   current diff is: 165539.000000
+x is : 2 y is : 2   current diff is: 45436.000000
+x is : 2 y is : 2   current diff is: 59812.000000
+x is : 2 y is : 2   current diff is: 89541.000000
+x is : 2 y is : 2   current diff is: 126244.000000
+x is : 2 y is : 2   current diff is: 182642.000000
+x is : 2 y is : 2   current diff is: 32057.000000
+x is : 2 y is : 2   current diff is: 105651.000000
+x is : 2 y is : 2   current diff is: 130162.000000
+x is : 2 y is : 2   current diff is: 186787.000000
+x is : 2 y is : 2   current diff is: 242690.000000
+x is : 2 y is : 2   current diff is: 31292.000000
+x is : 2 y is : 2   current diff is: 69153.000000
+x is : 2 y is : 2   current diff is: 105718.000000
+x is : 2 y is : 2   current diff is: 182713.000000
+x is : 2 y is : 2   current diff is: 204741.000000
+x is : 3 y is : 2   current diff is: 130806.000000
+x is : 3 y is : 2   current diff is: 161240.000000
+x is : 3 y is : 2   current diff is: 174873.000000
+x is : 3 y is : 2   current diff is: 223178.000000
+x is : 3 y is : 2   current diff is: 300642.000000
+x is : 3 y is : 2   current diff is: 44213.000000
+x is : 3 y is : 2   current diff is: 88140.000000
+x is : 3 y is : 2   current diff is: 112662.000000
+x is : 3 y is : 2   current diff is: 147335.000000
+x is : 3 y is : 2   current diff is: 153699.000000
+x is : 3 y is : 2   current diff is: 39143.000000
+x is : 3 y is : 2   current diff is: 53804.000000
+x is : 3 y is : 2   current diff is: 100318.000000
+x is : 3 y is : 2   current diff is: 139748.000000
+x is : 3 y is : 2   current diff is: 191743.000000
+x is : 3 y is : 2   current diff is: 24822.000000
+x is : 3 y is : 2   current diff is: 55577.000000
+x is : 3 y is : 2   current diff is: 69239.000000
+x is : 3 y is : 2   current diff is: 129708.000000
+x is : 3 y is : 2   current diff is: 142617.000000
+x is : 3 y is : 2   current diff is: 36537.000000
+x is : 3 y is : 2   current diff is: 106831.000000
+x is : 3 y is : 2   current diff is: 114677.000000
+x is : 3 y is : 2   current diff is: 199574.000000
+x is : 3 y is : 2   current diff is: 272256.000000
+x is : 3 y is : 2   current diff is: 28895.000000
+x is : 3 y is : 2   current diff is: 104881.000000
+x is : 3 y is : 2   current diff is: 128866.000000
+x is : 3 y is : 2   current diff is: 184972.000000
+x is : 3 y is : 2   current diff is: 207180.000000
+x is : 4 y is : 2   current diff is: 123754.000000
+x is : 4 y is : 2   current diff is: 143240.000000
+x is : 4 y is : 2   current diff is: 149573.000000
+x is : 4 y is : 2   current diff is: 243147.000000
+x is : 4 y is : 2   current diff is: 296707.000000
+x is : 4 y is : 2   current diff is: 26960.000000
+x is : 4 y is : 2   current diff is: 58022.000000
+x is : 4 y is : 2   current diff is: 87069.000000
+x is : 4 y is : 2   current diff is: 138990.000000
+x is : 4 y is : 2   current diff is: 159811.000000
+x is : 4 y is : 2   current diff is: 73406.000000
+x is : 4 y is : 2   current diff is: 122662.000000
+x is : 4 y is : 2   current diff is: 174476.000000
+x is : 4 y is : 2   current diff is: 221538.000000
+x is : 4 y is : 2   current diff is: 265786.000000
+x is : 4 y is : 2   current diff is: 35862.000000
+x is : 4 y is : 2   current diff is: 69049.000000
+x is : 4 y is : 2   current diff is: 99546.000000
+x is : 4 y is : 2   current diff is: 160420.000000
+x is : 4 y is : 2   current diff is: 210520.000000
+x is : 4 y is : 2   current diff is: 38860.000000
+x is : 4 y is : 2   current diff is: 123389.000000
+x is : 4 y is : 2   current diff is: 133303.000000
+x is : 4 y is : 2   current diff is: 192712.000000
+x is : 4 y is : 2   current diff is: 257870.000000
+x is : 4 y is : 2   current diff is: 67598.000000
+x is : 4 y is : 2   current diff is: 140776.000000
+x is : 4 y is : 2   current diff is: 159481.000000
+x is : 4 y is : 2   current diff is: 212947.000000
+x is : 4 y is : 2   current diff is: 243423.000000
+x is : 5 y is : 2   current diff is: 109894.000000
+x is : 5 y is : 2   current diff is: 136505.000000
+x is : 5 y is : 2   current diff is: 193814.000000
+x is : 5 y is : 2   current diff is: 282560.000000
+x is : 5 y is : 2   current diff is: 315023.000000
+x is : 5 y is : 2   current diff is: 38608.000000
+x is : 5 y is : 2   current diff is: 66095.000000
+x is : 5 y is : 2   current diff is: 87951.000000
+x is : 5 y is : 2   current diff is: 133600.000000
+x is : 5 y is : 2   current diff is: 153296.000000
+x is : 5 y is : 2   current diff is: 79881.000000
+x is : 5 y is : 2   current diff is: 130513.000000
+x is : 5 y is : 2   current diff is: 182456.000000
+x is : 5 y is : 2   current diff is: 258651.000000
+x is : 5 y is : 2   current diff is: 284299.000000
+x is : 5 y is : 2   current diff is: 30450.000000
+x is : 5 y is : 2   current diff is: 63178.000000
+x is : 5 y is : 2   current diff is: 96876.000000
+x is : 5 y is : 2   current diff is: 149050.000000
+x is : 5 y is : 2   current diff is: 197630.000000
+x is : 5 y is : 2   current diff is: 61888.000000
+x is : 5 y is : 2   current diff is: 156869.000000
+x is : 5 y is : 2   current diff is: 178628.000000
+x is : 5 y is : 2   current diff is: 257009.000000
+x is : 5 y is : 2   current diff is: 306479.000000
+x is : 5 y is : 2   current diff is: 69877.000000
+x is : 5 y is : 2   current diff is: 157135.000000
+x is : 5 y is : 2   current diff is: 210560.000000
+x is : 5 y is : 2   current diff is: 280307.000000
+x is : 5 y is : 2   current diff is: 322396.000000
+x is : 6 y is : 2   current diff is: 66102.000000
+x is : 6 y is : 2   current diff is: 91401.000000
+x is : 6 y is : 2   current diff is: 156622.000000
+x is : 6 y is : 2   current diff is: 209101.000000
+x is : 6 y is : 2   current diff is: 237716.000000
+x is : 6 y is : 2   current diff is: 39505.000000
+x is : 6 y is : 2   current diff is: 63317.000000
+x is : 6 y is : 2   current diff is: 92165.000000
+x is : 6 y is : 2   current diff is: 134742.000000
+x is : 6 y is : 2   current diff is: 157577.000000
+x is : 6 y is : 2   current diff is: 80529.000000
+x is : 6 y is : 2   current diff is: 138361.000000
+x is : 6 y is : 2   current diff is: 206660.000000
+x is : 6 y is : 2   current diff is: 254534.000000
+x is : 6 y is : 2   current diff is: 280182.000000
+x is : 6 y is : 2   current diff is: 26098.000000
+x is : 6 y is : 2   current diff is: 65225.000000
+x is : 6 y is : 2   current diff is: 89747.000000
+x is : 6 y is : 2   current diff is: 136710.000000
+x is : 6 y is : 2   current diff is: 184853.000000
+x is : 6 y is : 2   current diff is: 48957.000000
+x is : 6 y is : 2   current diff is: 134893.000000
+x is : 6 y is : 2   current diff is: 158731.000000
+x is : 6 y is : 2   current diff is: 243448.000000
+x is : 6 y is : 2   current diff is: 286938.000000
+x is : 6 y is : 2   current diff is: 65749.000000
+x is : 6 y is : 2   current diff is: 162432.000000
+x is : 6 y is : 2   current diff is: 221557.000000
+x is : 6 y is : 2   current diff is: 291095.000000
+x is : 6 y is : 2   current diff is: 343249.000000
+x is : 7 y is : 2   current diff is: 79062.000000
+x is : 7 y is : 2   current diff is: 112041.000000
+x is : 7 y is : 2   current diff is: 174151.000000
+x is : 7 y is : 2   current diff is: 228582.000000
+x is : 7 y is : 2   current diff is: 255226.000000
+x is : 7 y is : 2   current diff is: 35326.000000
+x is : 7 y is : 2   current diff is: 59069.000000
+x is : 7 y is : 2   current diff is: 88172.000000
+x is : 7 y is : 2   current diff is: 140806.000000
+x is : 7 y is : 2   current diff is: 163641.000000
+x is : 7 y is : 2   current diff is: 28066.000000
+x is : 7 y is : 2   current diff is: 55097.000000
+x is : 7 y is : 2   current diff is: 106691.000000
+x is : 7 y is : 2   current diff is: 122342.000000
+x is : 7 y is : 2   current diff is: 173605.000000
+x is : 7 y is : 2   current diff is: 47686.000000
+x is : 7 y is : 2   current diff is: 127602.000000
+x is : 7 y is : 2   current diff is: 147487.000000
+x is : 7 y is : 2   current diff is: 228081.000000
+x is : 7 y is : 2   current diff is: 277366.000000
+x is : 2 y is : 3   current diff is: 29223.000000
+x is : 2 y is : 3   current diff is: 74432.000000
+x is : 2 y is : 3   current diff is: 115786.000000
+x is : 2 y is : 3   current diff is: 168022.000000
+x is : 2 y is : 3   current diff is: 267893.000000
+x is : 2 y is : 3   current diff is: 81120.000000
+x is : 2 y is : 3   current diff is: 115898.000000
+x is : 2 y is : 3   current diff is: 164313.000000
+x is : 2 y is : 3   current diff is: 240907.000000
+x is : 2 y is : 3   current diff is: 268216.000000
+x is : 2 y is : 3   current diff is: 36807.000000
+x is : 2 y is : 3   current diff is: 58109.000000
+x is : 2 y is : 3   current diff is: 94830.000000
+x is : 2 y is : 3   current diff is: 105954.000000
+x is : 2 y is : 3   current diff is: 130412.000000
+x is : 2 y is : 3   current diff is: 14376.000000
+x is : 2 y is : 3   current diff is: 44105.000000
+x is : 2 y is : 3   current diff is: 80808.000000
+x is : 2 y is : 3   current diff is: 137206.000000
+x is : 2 y is : 3   current diff is: 225251.000000
+x is : 2 y is : 3   current diff is: 73594.000000
+x is : 2 y is : 3   current diff is: 98105.000000
+x is : 2 y is : 3   current diff is: 154730.000000
+x is : 2 y is : 3   current diff is: 210633.000000
+x is : 2 y is : 3   current diff is: 277163.000000
+x is : 2 y is : 3   current diff is: 37861.000000
+x is : 2 y is : 3   current diff is: 74426.000000
+x is : 2 y is : 3   current diff is: 151421.000000
+x is : 2 y is : 3   current diff is: 173449.000000
+x is : 2 y is : 3   current diff is: 203847.000000
+x is : 3 y is : 3   current diff is: 143746.000000
+x is : 3 y is : 3   current diff is: 157402.000000
+x is : 3 y is : 3   current diff is: 209088.000000
+x is : 3 y is : 3   current diff is: 296956.000000
+x is : 3 y is : 3   current diff is: 319777.000000
+x is : 3 y is : 3   current diff is: 21063.000000
+x is : 3 y is : 3   current diff is: 56432.000000
+x is : 3 y is : 3   current diff is: 93853.000000
+x is : 3 y is : 3   current diff is: 179113.000000
+x is : 3 y is : 3   current diff is: 263720.000000
+x is : 3 y is : 3   current diff is: 63949.000000
+x is : 3 y is : 3   current diff is: 86176.000000
+x is : 3 y is : 3   current diff is: 178975.000000
+x is : 3 y is : 3   current diff is: 265422.000000
+x is : 3 y is : 3   current diff is: 292380.000000
+x is : 3 y is : 3   current diff is: 30434.000000
+x is : 3 y is : 3   current diff is: 44067.000000
+x is : 3 y is : 3   current diff is: 92372.000000
+x is : 3 y is : 3   current diff is: 169836.000000
+x is : 3 y is : 3   current diff is: 239624.000000
+x is : 3 y is : 3   current diff is: 43927.000000
+x is : 3 y is : 3   current diff is: 68449.000000
+x is : 3 y is : 3   current diff is: 103122.000000
+x is : 3 y is : 3   current diff is: 109486.000000
+x is : 3 y is : 3   current diff is: 136235.000000
+x is : 3 y is : 3   current diff is: 14661.000000
+x is : 3 y is : 3   current diff is: 61175.000000
+x is : 3 y is : 3   current diff is: 100605.000000
+x is : 3 y is : 3   current diff is: 152600.000000
+x is : 3 y is : 3   current diff is: 241605.000000
+x is : 3 y is : 3   current diff is: 30755.000000
+x is : 3 y is : 3   current diff is: 44417.000000
+x is : 3 y is : 3   current diff is: 104886.000000
+x is : 3 y is : 3   current diff is: 117795.000000
+x is : 3 y is : 3   current diff is: 200813.000000
+x is : 3 y is : 3   current diff is: 70294.000000
+x is : 3 y is : 3   current diff is: 78140.000000
+x is : 3 y is : 3   current diff is: 163037.000000
+x is : 3 y is : 3   current diff is: 235719.000000
+x is : 3 y is : 3   current diff is: 296849.000000
+x is : 3 y is : 3   current diff is: 75986.000000
+x is : 3 y is : 3   current diff is: 99971.000000
+x is : 3 y is : 3   current diff is: 156077.000000
+x is : 3 y is : 3   current diff is: 178285.000000
+x is : 3 y is : 3   current diff is: 203908.000000
+x is : 4 y is : 3   current diff is: 117426.000000
+x is : 4 y is : 3   current diff is: 127842.000000
+x is : 4 y is : 3   current diff is: 170632.000000
+x is : 4 y is : 3   current diff is: 276908.000000
+x is : 4 y is : 3   current diff is: 336953.000000
+x is : 4 y is : 3   current diff is: 18734.000000
+x is : 4 y is : 3   current diff is: 56916.000000
+x is : 4 y is : 3   current diff is: 94680.000000
+x is : 4 y is : 3   current diff is: 175469.000000
+x is : 4 y is : 3   current diff is: 220461.000000
+x is : 4 y is : 3   current diff is: 74344.000000
+x is : 4 y is : 3   current diff is: 97084.000000
+x is : 4 y is : 3   current diff is: 206067.000000
+x is : 4 y is : 3   current diff is: 267071.000000
+x is : 4 y is : 3   current diff is: 318914.000000
+x is : 4 y is : 3   current diff is: 19486.000000
+x is : 4 y is : 3   current diff is: 25819.000000
+x is : 4 y is : 3   current diff is: 119393.000000
+x is : 4 y is : 3   current diff is: 172953.000000
+x is : 4 y is : 3   current diff is: 197388.000000
+x is : 4 y is : 3   current diff is: 31062.000000
+x is : 4 y is : 3   current diff is: 60109.000000
+x is : 4 y is : 3   current diff is: 112030.000000
+x is : 4 y is : 3   current diff is: 132851.000000
+x is : 4 y is : 3   current diff is: 187100.000000
+x is : 4 y is : 3   current diff is: 49256.000000
+x is : 4 y is : 3   current diff is: 101070.000000
+x is : 4 y is : 3   current diff is: 148132.000000
+x is : 4 y is : 3   current diff is: 192380.000000
+x is : 4 y is : 3   current diff is: 263653.000000
+x is : 4 y is : 3   current diff is: 33187.000000
+x is : 4 y is : 3   current diff is: 63684.000000
+x is : 4 y is : 3   current diff is: 124558.000000
+x is : 4 y is : 3   current diff is: 174658.000000
+x is : 4 y is : 3   current diff is: 246580.000000
+x is : 4 y is : 3   current diff is: 84529.000000
+x is : 4 y is : 3   current diff is: 94443.000000
+x is : 4 y is : 3   current diff is: 153852.000000
+x is : 4 y is : 3   current diff is: 219010.000000
+x is : 4 y is : 3   current diff is: 293621.000000
+x is : 4 y is : 3   current diff is: 73178.000000
+x is : 4 y is : 3   current diff is: 91883.000000
+x is : 4 y is : 3   current diff is: 145349.000000
+x is : 4 y is : 3   current diff is: 175825.000000
+x is : 4 y is : 3   current diff is: 264368.000000
+x is : 5 y is : 3   current diff is: 95671.000000
+x is : 5 y is : 3   current diff is: 108531.000000
+x is : 5 y is : 3   current diff is: 180646.000000
+x is : 5 y is : 3   current diff is: 296801.000000
+x is : 5 y is : 3   current diff is: 360397.000000
+x is : 5 y is : 3   current diff is: 18139.000000
+x is : 5 y is : 3   current diff is: 77317.000000
+x is : 5 y is : 3   current diff is: 115661.000000
+x is : 5 y is : 3   current diff is: 197185.000000
+x is : 5 y is : 3   current diff is: 247820.000000
+x is : 5 y is : 3   current diff is: 51544.000000
+x is : 5 y is : 3   current diff is: 73675.000000
+x is : 5 y is : 3   current diff is: 172802.000000
+x is : 5 y is : 3   current diff is: 234526.000000
+x is : 5 y is : 3   current diff is: 309025.000000
+x is : 5 y is : 3   current diff is: 26611.000000
+x is : 5 y is : 3   current diff is: 83920.000000
+x is : 5 y is : 3   current diff is: 172666.000000
+x is : 5 y is : 3   current diff is: 205129.000000
+x is : 5 y is : 3   current diff is: 239228.000000
+x is : 5 y is : 3   current diff is: 27487.000000
+x is : 5 y is : 3   current diff is: 49343.000000
+x is : 5 y is : 3   current diff is: 94992.000000
+x is : 5 y is : 3   current diff is: 114688.000000
+x is : 5 y is : 3   current diff is: 177777.000000
+x is : 5 y is : 3   current diff is: 50632.000000
+x is : 5 y is : 3   current diff is: 102575.000000
+x is : 5 y is : 3   current diff is: 178770.000000
+x is : 5 y is : 3   current diff is: 204418.000000
+x is : 5 y is : 3   current diff is: 259116.000000
+x is : 5 y is : 3   current diff is: 32728.000000
+x is : 5 y is : 3   current diff is: 66426.000000
+x is : 5 y is : 3   current diff is: 118600.000000
+x is : 5 y is : 3   current diff is: 167180.000000
+x is : 5 y is : 3   current diff is: 239861.000000
+x is : 5 y is : 3   current diff is: 94981.000000
+x is : 5 y is : 3   current diff is: 116740.000000
+x is : 5 y is : 3   current diff is: 195121.000000
+x is : 5 y is : 3   current diff is: 244591.000000
+x is : 5 y is : 3   current diff is: 330050.000000
+x is : 5 y is : 3   current diff is: 87258.000000
+x is : 5 y is : 3   current diff is: 140683.000000
+x is : 5 y is : 3   current diff is: 210430.000000
+x is : 5 y is : 3   current diff is: 252519.000000
+x is : 5 y is : 3   current diff is: 356119.000000
+x is : 6 y is : 3   current diff is: 63799.000000
+x is : 6 y is : 3   current diff is: 78954.000000
+x is : 6 y is : 3   current diff is: 143334.000000
+x is : 6 y is : 3   current diff is: 230473.000000
+x is : 6 y is : 3   current diff is: 285216.000000
+x is : 6 y is : 3   current diff is: 17852.000000
+x is : 6 y is : 3   current diff is: 78086.000000
+x is : 6 y is : 3   current diff is: 90607.000000
+x is : 6 y is : 3   current diff is: 169810.000000
+x is : 6 y is : 3   current diff is: 227765.000000
+x is : 6 y is : 3   current diff is: 51544.000000
+x is : 6 y is : 3   current diff is: 82130.000000
+x is : 6 y is : 3   current diff is: 168216.000000
+x is : 6 y is : 3   current diff is: 211736.000000
+x is : 6 y is : 3   current diff is: 283076.000000
+x is : 6 y is : 3   current diff is: 25299.000000
+x is : 6 y is : 3   current diff is: 90520.000000
+x is : 6 y is : 3   current diff is: 142999.000000
+x is : 6 y is : 3   current diff is: 171614.000000
+x is : 6 y is : 3   current diff is: 206313.000000
+x is : 6 y is : 3   current diff is: 23812.000000
+x is : 6 y is : 3   current diff is: 52660.000000
+x is : 6 y is : 3   current diff is: 95237.000000
+x is : 6 y is : 3   current diff is: 118072.000000
+x is : 6 y is : 3   current diff is: 163286.000000
+x is : 6 y is : 3   current diff is: 57832.000000
+x is : 6 y is : 3   current diff is: 126131.000000
+x is : 6 y is : 3   current diff is: 174005.000000
+x is : 6 y is : 3   current diff is: 199653.000000
+x is : 6 y is : 3   current diff is: 266063.000000
+x is : 6 y is : 3   current diff is: 39127.000000
+x is : 6 y is : 3   current diff is: 63649.000000
+x is : 6 y is : 3   current diff is: 110612.000000
+x is : 6 y is : 3   current diff is: 158755.000000
+x is : 6 y is : 3   current diff is: 218448.000000
+x is : 6 y is : 3   current diff is: 85936.000000
+x is : 6 y is : 3   current diff is: 109774.000000
+x is : 6 y is : 3   current diff is: 194491.000000
+x is : 6 y is : 3   current diff is: 237981.000000
+x is : 6 y is : 3   current diff is: 324285.000000
+x is : 6 y is : 3   current diff is: 96683.000000
+x is : 6 y is : 3   current diff is: 155808.000000
+x is : 6 y is : 3   current diff is: 225346.000000
+x is : 6 y is : 3   current diff is: 277500.000000
+x is : 6 y is : 3   current diff is: 378775.000000
+x is : 7 y is : 3   current diff is: 89559.000000
+x is : 7 y is : 3   current diff is: 109169.000000
+x is : 7 y is : 3   current diff is: 183592.000000
+x is : 7 y is : 3   current diff is: 269180.000000
+x is : 7 y is : 3   current diff is: 320150.000000
+x is : 7 y is : 3   current diff is: 21915.000000
+x is : 7 y is : 3   current diff is: 81945.000000
+x is : 7 y is : 3   current diff is: 107387.000000
+x is : 7 y is : 3   current diff is: 183926.000000
+x is : 7 y is : 3   current diff is: 242169.000000
+x is : 7 y is : 3   current diff is: 32979.000000
+x is : 7 y is : 3   current diff is: 95089.000000
+x is : 7 y is : 3   current diff is: 149520.000000
+x is : 7 y is : 3   current diff is: 176164.000000
+x is : 7 y is : 3   current diff is: 216659.000000
+x is : 7 y is : 3   current diff is: 23743.000000
+x is : 7 y is : 3   current diff is: 52846.000000
+x is : 7 y is : 3   current diff is: 105480.000000
+x is : 7 y is : 3   current diff is: 128315.000000
+x is : 7 y is : 3   current diff is: 178274.000000
+x is : 7 y is : 3   current diff is: 27031.000000
+x is : 7 y is : 3   current diff is: 78625.000000
+x is : 7 y is : 3   current diff is: 94276.000000
+x is : 7 y is : 3   current diff is: 145539.000000
+x is : 7 y is : 3   current diff is: 205188.000000
+x is : 7 y is : 3   current diff is: 79916.000000
+x is : 7 y is : 3   current diff is: 99801.000000
+x is : 7 y is : 3   current diff is: 180395.000000
+x is : 7 y is : 3   current diff is: 229680.000000
+x is : 7 y is : 3   current diff is: 317328.000000
+x is : 2 y is : 4   current diff is: 45209.000000
+x is : 2 y is : 4   current diff is: 86563.000000
+x is : 2 y is : 4   current diff is: 138799.000000
+x is : 2 y is : 4   current diff is: 238670.000000
+x is : 2 y is : 4   current diff is: 285222.000000
+x is : 2 y is : 4   current diff is: 34778.000000
+x is : 2 y is : 4   current diff is: 83193.000000
+x is : 2 y is : 4   current diff is: 159787.000000
+x is : 2 y is : 4   current diff is: 187096.000000
+x is : 2 y is : 4   current diff is: 212291.000000
+x is : 2 y is : 4   current diff is: 21302.000000
+x is : 2 y is : 4   current diff is: 58023.000000
+x is : 2 y is : 4   current diff is: 69147.000000
+x is : 2 y is : 4   current diff is: 93605.000000
+x is : 2 y is : 4   current diff is: 136241.000000
+x is : 2 y is : 4   current diff is: 29729.000000
+x is : 2 y is : 4   current diff is: 66432.000000
+x is : 2 y is : 4   current diff is: 122830.000000
+x is : 2 y is : 4   current diff is: 210875.000000
+x is : 2 y is : 4   current diff is: 240477.000000
+x is : 2 y is : 4   current diff is: 24511.000000
+x is : 2 y is : 4   current diff is: 81136.000000
+x is : 2 y is : 4   current diff is: 137039.000000
+x is : 2 y is : 4   current diff is: 203569.000000
+x is : 2 y is : 4   current diff is: 219469.000000
+x is : 2 y is : 4   current diff is: 36565.000000
+x is : 2 y is : 4   current diff is: 113560.000000
+x is : 2 y is : 4   current diff is: 135588.000000
+x is : 2 y is : 4   current diff is: 165986.000000
+x is : 2 y is : 4   current diff is: 200951.000000
+x is : 3 y is : 4   current diff is: 13656.000000
+x is : 3 y is : 4   current diff is: 65342.000000
+x is : 3 y is : 4   current diff is: 153210.000000
+x is : 3 y is : 4   current diff is: 176031.000000
+x is : 3 y is : 4   current diff is: 194120.000000
+x is : 3 y is : 4   current diff is: 35369.000000
+x is : 3 y is : 4   current diff is: 72790.000000
+x is : 3 y is : 4   current diff is: 158050.000000
+x is : 3 y is : 4   current diff is: 242657.000000
+x is : 3 y is : 4   current diff is: 293505.000000
+x is : 3 y is : 4   current diff is: 22227.000000
+x is : 3 y is : 4   current diff is: 115026.000000
+x is : 3 y is : 4   current diff is: 201473.000000
+x is : 3 y is : 4   current diff is: 228431.000000
+x is : 3 y is : 4   current diff is: 252807.000000
+x is : 3 y is : 4   current diff is: 13633.000000
+x is : 3 y is : 4   current diff is: 61938.000000
+x is : 3 y is : 4   current diff is: 139402.000000
+x is : 3 y is : 4   current diff is: 209190.000000
+x is : 3 y is : 4   current diff is: 250157.000000
+x is : 3 y is : 4   current diff is: 24522.000000
+x is : 3 y is : 4   current diff is: 59195.000000
+x is : 3 y is : 4   current diff is: 65559.000000
+x is : 3 y is : 4   current diff is: 92308.000000
+x is : 3 y is : 4   current diff is: 153619.000000
+x is : 3 y is : 4   current diff is: 46514.000000
+x is : 3 y is : 4   current diff is: 85944.000000
+x is : 3 y is : 4   current diff is: 137939.000000
+x is : 3 y is : 4   current diff is: 226944.000000
+x is : 3 y is : 4   current diff is: 257250.000000
+x is : 3 y is : 4   current diff is: 13662.000000
+x is : 3 y is : 4   current diff is: 74131.000000
+x is : 3 y is : 4   current diff is: 87040.000000
+x is : 3 y is : 4   current diff is: 170058.000000
+x is : 3 y is : 4   current diff is: 201283.000000
+x is : 3 y is : 4   current diff is: 7846.000000
+x is : 3 y is : 4   current diff is: 92743.000000
+x is : 3 y is : 4   current diff is: 165425.000000
+x is : 3 y is : 4   current diff is: 226555.000000
+x is : 3 y is : 4   current diff is: 242239.000000
+x is : 3 y is : 4   current diff is: 23985.000000
+x is : 3 y is : 4   current diff is: 80091.000000
+x is : 3 y is : 4   current diff is: 102299.000000
+x is : 3 y is : 4   current diff is: 127922.000000
+x is : 3 y is : 4   current diff is: 159624.000000
+x is : 4 y is : 4   current diff is: 10416.000000
+x is : 4 y is : 4   current diff is: 53206.000000
+x is : 4 y is : 4   current diff is: 159482.000000
+x is : 4 y is : 4   current diff is: 219527.000000
+x is : 4 y is : 4   current diff is: 275521.000000
+x is : 4 y is : 4   current diff is: 38182.000000
+x is : 4 y is : 4   current diff is: 75946.000000
+x is : 4 y is : 4   current diff is: 156735.000000
+x is : 4 y is : 4   current diff is: 201727.000000
+x is : 4 y is : 4   current diff is: 249175.000000
+x is : 4 y is : 4   current diff is: 22740.000000
+x is : 4 y is : 4   current diff is: 131723.000000
+x is : 4 y is : 4   current diff is: 192727.000000
+x is : 4 y is : 4   current diff is: 244570.000000
+x is : 4 y is : 4   current diff is: 277778.000000
+x is : 4 y is : 4   current diff is: 6333.000000
+x is : 4 y is : 4   current diff is: 99907.000000
+x is : 4 y is : 4   current diff is: 153467.000000
+x is : 4 y is : 4   current diff is: 177902.000000
+x is : 4 y is : 4   current diff is: 249877.000000
+x is : 4 y is : 4   current diff is: 29047.000000
+x is : 4 y is : 4   current diff is: 80968.000000
+x is : 4 y is : 4   current diff is: 101789.000000
+x is : 4 y is : 4   current diff is: 156038.000000
+x is : 4 y is : 4   current diff is: 219284.000000
+x is : 4 y is : 4   current diff is: 51814.000000
+x is : 4 y is : 4   current diff is: 98876.000000
+x is : 4 y is : 4   current diff is: 143124.000000
+x is : 4 y is : 4   current diff is: 214397.000000
+x is : 4 y is : 4   current diff is: 224831.000000
+x is : 4 y is : 4   current diff is: 30497.000000
+x is : 4 y is : 4   current diff is: 91371.000000
+x is : 4 y is : 4   current diff is: 141471.000000
+x is : 4 y is : 4   current diff is: 213393.000000
+x is : 4 y is : 4   current diff is: 232215.000000
+x is : 4 y is : 4   current diff is: 9914.000000
+x is : 4 y is : 4   current diff is: 69323.000000
+x is : 4 y is : 4   current diff is: 134481.000000
+x is : 4 y is : 4   current diff is: 209092.000000
+x is : 4 y is : 4   current diff is: 244000.000000
+x is : 4 y is : 4   current diff is: 18705.000000
+x is : 4 y is : 4   current diff is: 72171.000000
+x is : 4 y is : 4   current diff is: 102647.000000
+x is : 4 y is : 4   current diff is: 191190.000000
+x is : 4 y is : 4   current diff is: 216872.000000
+x is : 5 y is : 4   current diff is: 12860.000000
+x is : 5 y is : 4   current diff is: 84975.000000
+x is : 5 y is : 4   current diff is: 201130.000000
+x is : 5 y is : 4   current diff is: 264726.000000
+x is : 5 y is : 4   current diff is: 326549.000000
+x is : 5 y is : 4   current diff is: 59178.000000
+x is : 5 y is : 4   current diff is: 97522.000000
+x is : 5 y is : 4   current diff is: 179046.000000
+x is : 5 y is : 4   current diff is: 229681.000000
+x is : 5 y is : 4   current diff is: 279014.000000
+x is : 5 y is : 4   current diff is: 22131.000000
+x is : 5 y is : 4   current diff is: 121258.000000
+x is : 5 y is : 4   current diff is: 182982.000000
+x is : 5 y is : 4   current diff is: 257481.000000
+x is : 5 y is : 4   current diff is: 282417.000000
+x is : 5 y is : 4   current diff is: 57309.000000
+x is : 5 y is : 4   current diff is: 146055.000000
+x is : 5 y is : 4   current diff is: 178518.000000
+x is : 5 y is : 4   current diff is: 212617.000000
+x is : 5 y is : 4   current diff is: 284592.000000
+x is : 5 y is : 4   current diff is: 21856.000000
+x is : 5 y is : 4   current diff is: 67505.000000
+x is : 5 y is : 4   current diff is: 87201.000000
+x is : 5 y is : 4   current diff is: 150290.000000
+x is : 5 y is : 4   current diff is: 220907.000000
+x is : 5 y is : 4   current diff is: 51943.000000
+x is : 5 y is : 4   current diff is: 128138.000000
+x is : 5 y is : 4   current diff is: 153786.000000
+x is : 5 y is : 4   current diff is: 208484.000000
+x is : 5 y is : 4   current diff is: 227198.000000
+x is : 5 y is : 4   current diff is: 33698.000000
+x is : 5 y is : 4   current diff is: 85872.000000
+x is : 5 y is : 4   current diff is: 134452.000000
+x is : 5 y is : 4   current diff is: 207133.000000
+x is : 5 y is : 4   current diff is: 225724.000000
+x is : 5 y is : 4   current diff is: 21759.000000
+x is : 5 y is : 4   current diff is: 100140.000000
+x is : 5 y is : 4   current diff is: 149610.000000
+x is : 5 y is : 4   current diff is: 235069.000000
+x is : 5 y is : 4   current diff is: 280168.000000
+x is : 5 y is : 4   current diff is: 53425.000000
+x is : 5 y is : 4   current diff is: 123172.000000
+x is : 5 y is : 4   current diff is: 165261.000000
+x is : 5 y is : 4   current diff is: 268861.000000
+x is : 5 y is : 4   current diff is: 293023.000000
+x is : 6 y is : 4   current diff is: 15155.000000
+x is : 6 y is : 4   current diff is: 79535.000000
+x is : 6 y is : 4   current diff is: 166674.000000
+x is : 6 y is : 4   current diff is: 221417.000000
+x is : 6 y is : 4   current diff is: 294900.000000
+x is : 6 y is : 4   current diff is: 60234.000000
+x is : 6 y is : 4   current diff is: 72755.000000
+x is : 6 y is : 4   current diff is: 151958.000000
+x is : 6 y is : 4   current diff is: 209913.000000
+x is : 6 y is : 4   current diff is: 270901.000000
+x is : 6 y is : 4   current diff is: 30586.000000
+x is : 6 y is : 4   current diff is: 116672.000000
+x is : 6 y is : 4   current diff is: 160192.000000
+x is : 6 y is : 4   current diff is: 231532.000000
+x is : 6 y is : 4   current diff is: 251436.000000
+x is : 6 y is : 4   current diff is: 65221.000000
+x is : 6 y is : 4   current diff is: 117700.000000
+x is : 6 y is : 4   current diff is: 146315.000000
+x is : 6 y is : 4   current diff is: 181014.000000
+x is : 6 y is : 4   current diff is: 221189.000000
+x is : 6 y is : 4   current diff is: 28848.000000
+x is : 6 y is : 4   current diff is: 71425.000000
+x is : 6 y is : 4   current diff is: 94260.000000
+x is : 6 y is : 4   current diff is: 139474.000000
+x is : 6 y is : 4   current diff is: 210202.000000
+x is : 6 y is : 4   current diff is: 68299.000000
+x is : 6 y is : 4   current diff is: 116173.000000
+x is : 6 y is : 4   current diff is: 141821.000000
+x is : 6 y is : 4   current diff is: 208231.000000
+x is : 6 y is : 4   current diff is: 240910.000000
+x is : 6 y is : 4   current diff is: 24522.000000
+x is : 6 y is : 4   current diff is: 71485.000000
+x is : 6 y is : 4   current diff is: 119628.000000
+x is : 6 y is : 4   current diff is: 179321.000000
+x is : 6 y is : 4   current diff is: 185368.000000
+x is : 6 y is : 4   current diff is: 23838.000000
+x is : 6 y is : 4   current diff is: 108555.000000
+x is : 6 y is : 4   current diff is: 152045.000000
+x is : 6 y is : 4   current diff is: 238349.000000
+x is : 6 y is : 4   current diff is: 295481.000000
+x is : 6 y is : 4   current diff is: 59125.000000
+x is : 6 y is : 4   current diff is: 128663.000000
+x is : 6 y is : 4   current diff is: 180817.000000
+x is : 6 y is : 4   current diff is: 282092.000000
+x is : 6 y is : 4   current diff is: 302726.000000
+x is : 7 y is : 4   current diff is: 19610.000000
+x is : 7 y is : 4   current diff is: 94033.000000
+x is : 7 y is : 4   current diff is: 179621.000000
+x is : 7 y is : 4   current diff is: 230591.000000
+x is : 7 y is : 4   current diff is: 304146.000000
+x is : 7 y is : 4   current diff is: 60030.000000
+x is : 7 y is : 4   current diff is: 85472.000000
+x is : 7 y is : 4   current diff is: 162011.000000
+x is : 7 y is : 4   current diff is: 220254.000000
+x is : 7 y is : 4   current diff is: 311157.000000
+x is : 7 y is : 4   current diff is: 62110.000000
+x is : 7 y is : 4   current diff is: 116541.000000
+x is : 7 y is : 4   current diff is: 143185.000000
+x is : 7 y is : 4   current diff is: 183680.000000
+x is : 7 y is : 4   current diff is: 235855.000000
+x is : 7 y is : 4   current diff is: 29103.000000
+x is : 7 y is : 4   current diff is: 81737.000000
+x is : 7 y is : 4   current diff is: 104572.000000
+x is : 7 y is : 4   current diff is: 154531.000000
+x is : 7 y is : 4   current diff is: 223663.000000
+x is : 7 y is : 4   current diff is: 51594.000000
+x is : 7 y is : 4   current diff is: 67245.000000
+x is : 7 y is : 4   current diff is: 118508.000000
+x is : 7 y is : 4   current diff is: 178157.000000
+x is : 7 y is : 4   current diff is: 185464.000000
+x is : 7 y is : 4   current diff is: 19885.000000
+x is : 7 y is : 4   current diff is: 100479.000000
+x is : 7 y is : 4   current diff is: 149764.000000
+x is : 7 y is : 4   current diff is: 237412.000000
+x is : 7 y is : 4   current diff is: 330679.000000
+x is : 2 y is : 5   current diff is: 41354.000000
+x is : 2 y is : 5   current diff is: 93590.000000
+x is : 2 y is : 5   current diff is: 193461.000000
+x is : 2 y is : 5   current diff is: 240013.000000
+x is : 2 y is : 5   current diff is: 318107.000000
+x is : 2 y is : 5   current diff is: 48415.000000
+x is : 2 y is : 5   current diff is: 125009.000000
+x is : 2 y is : 5   current diff is: 152318.000000
+x is : 2 y is : 5   current diff is: 177513.000000
+x is : 2 y is : 5   current diff is: 267097.000000
+x is : 2 y is : 5   current diff is: 36721.000000
+x is : 2 y is : 5   current diff is: 47845.000000
+x is : 2 y is : 5   current diff is: 72303.000000
+x is : 2 y is : 5   current diff is: 114939.000000
+x is : 2 y is : 5   current diff is: 210531.000000
+x is : 2 y is : 5   current diff is: 36703.000000
+x is : 2 y is : 5   current diff is: 93101.000000
+x is : 2 y is : 5   current diff is: 181146.000000
+x is : 2 y is : 5   current diff is: 210748.000000
+x is : 2 y is : 5   current diff is: 240673.000000
+x is : 2 y is : 5   current diff is: 56625.000000
+x is : 2 y is : 5   current diff is: 112528.000000
+x is : 2 y is : 5   current diff is: 179058.000000
+x is : 2 y is : 5   current diff is: 194958.000000
+x is : 2 y is : 5   current diff is: 234327.000000
+x is : 2 y is : 5   current diff is: 76995.000000
+x is : 2 y is : 5   current diff is: 99023.000000
+x is : 2 y is : 5   current diff is: 129421.000000
+x is : 2 y is : 5   current diff is: 164386.000000
+x is : 2 y is : 5   current diff is: 228527.000000
+x is : 3 y is : 5   current diff is: 51686.000000
+x is : 3 y is : 5   current diff is: 139554.000000
+x is : 3 y is : 5   current diff is: 162375.000000
+x is : 3 y is : 5   current diff is: 180464.000000
+x is : 3 y is : 5   current diff is: 215063.000000
+x is : 3 y is : 5   current diff is: 37421.000000
+x is : 3 y is : 5   current diff is: 122681.000000
+x is : 3 y is : 5   current diff is: 207288.000000
+x is : 3 y is : 5   current diff is: 258136.000000
+x is : 3 y is : 5   current diff is: 337045.000000
+x is : 3 y is : 5   current diff is: 92799.000000
+x is : 3 y is : 5   current diff is: 179246.000000
+x is : 3 y is : 5   current diff is: 206204.000000
+x is : 3 y is : 5   current diff is: 230580.000000
+x is : 3 y is : 5   current diff is: 308548.000000
+x is : 3 y is : 5   current diff is: 48305.000000
+x is : 3 y is : 5   current diff is: 125769.000000
+x is : 3 y is : 5   current diff is: 195557.000000
+x is : 3 y is : 5   current diff is: 236524.000000
+x is : 3 y is : 5   current diff is: 255753.000000
+x is : 3 y is : 5   current diff is: 34673.000000
+x is : 3 y is : 5   current diff is: 41037.000000
+x is : 3 y is : 5   current diff is: 67786.000000
+x is : 3 y is : 5   current diff is: 129097.000000
+x is : 3 y is : 5   current diff is: 198473.000000
+x is : 3 y is : 5   current diff is: 39430.000000
+x is : 3 y is : 5   current diff is: 91425.000000
+x is : 3 y is : 5   current diff is: 180430.000000
+x is : 3 y is : 5   current diff is: 210736.000000
+x is : 3 y is : 5   current diff is: 242738.000000
+x is : 3 y is : 5   current diff is: 60469.000000
+x is : 3 y is : 5   current diff is: 73378.000000
+x is : 3 y is : 5   current diff is: 156396.000000
+x is : 3 y is : 5   current diff is: 187621.000000
+x is : 3 y is : 5   current diff is: 248819.000000
+x is : 3 y is : 5   current diff is: 84897.000000
+x is : 3 y is : 5   current diff is: 157579.000000
+x is : 3 y is : 5   current diff is: 218709.000000
+x is : 3 y is : 5   current diff is: 234393.000000
+x is : 3 y is : 5   current diff is: 276891.000000
+x is : 3 y is : 5   current diff is: 56106.000000
+x is : 3 y is : 5   current diff is: 78314.000000
+x is : 3 y is : 5   current diff is: 103937.000000
+x is : 3 y is : 5   current diff is: 135639.000000
+x is : 3 y is : 5   current diff is: 181813.000000
+x is : 4 y is : 5   current diff is: 42790.000000
+x is : 4 y is : 5   current diff is: 149066.000000
+x is : 4 y is : 5   current diff is: 209111.000000
+x is : 4 y is : 5   current diff is: 265105.000000
+x is : 4 y is : 5   current diff is: 324527.000000
+x is : 4 y is : 5   current diff is: 37764.000000
+x is : 4 y is : 5   current diff is: 118553.000000
+x is : 4 y is : 5   current diff is: 163545.000000
+x is : 4 y is : 5   current diff is: 210993.000000
+x is : 4 y is : 5   current diff is: 292814.000000
+x is : 4 y is : 5   current diff is: 108983.000000
+x is : 4 y is : 5   current diff is: 169987.000000
+x is : 4 y is : 5   current diff is: 221830.000000
+x is : 4 y is : 5   current diff is: 255038.000000
+x is : 4 y is : 5   current diff is: 332341.000000
+x is : 4 y is : 5   current diff is: 93574.000000
+x is : 4 y is : 5   current diff is: 147134.000000
+x is : 4 y is : 5   current diff is: 171569.000000
+x is : 4 y is : 5   current diff is: 243544.000000
+x is : 4 y is : 5   current diff is: 263333.000000
+x is : 4 y is : 5   current diff is: 51921.000000
+x is : 4 y is : 5   current diff is: 72742.000000
+x is : 4 y is : 5   current diff is: 126991.000000
+x is : 4 y is : 5   current diff is: 190237.000000
+x is : 4 y is : 5   current diff is: 261482.000000
+x is : 4 y is : 5   current diff is: 47062.000000
+x is : 4 y is : 5   current diff is: 91310.000000
+x is : 4 y is : 5   current diff is: 162583.000000
+x is : 4 y is : 5   current diff is: 173017.000000
+x is : 4 y is : 5   current diff is: 204734.000000
+x is : 4 y is : 5   current diff is: 60874.000000
+x is : 4 y is : 5   current diff is: 110974.000000
+x is : 4 y is : 5   current diff is: 182896.000000
+x is : 4 y is : 5   current diff is: 201718.000000
+x is : 4 y is : 5   current diff is: 255869.000000
+x is : 4 y is : 5   current diff is: 59409.000000
+x is : 4 y is : 5   current diff is: 124567.000000
+x is : 4 y is : 5   current diff is: 199178.000000
+x is : 4 y is : 5   current diff is: 234086.000000
+x is : 4 y is : 5   current diff is: 288761.000000
+x is : 4 y is : 5   current diff is: 53466.000000
+x is : 4 y is : 5   current diff is: 83942.000000
+x is : 4 y is : 5   current diff is: 172485.000000
+x is : 4 y is : 5   current diff is: 198167.000000
+x is : 4 y is : 5   current diff is: 257242.000000
+x is : 5 y is : 5   current diff is: 72115.000000
+x is : 5 y is : 5   current diff is: 188270.000000
+x is : 5 y is : 5   current diff is: 251866.000000
+x is : 5 y is : 5   current diff is: 313689.000000
+x is : 5 y is : 5   current diff is: 358088.000000
+x is : 5 y is : 5   current diff is: 38344.000000
+x is : 5 y is : 5   current diff is: 119868.000000
+x is : 5 y is : 5   current diff is: 170503.000000
+x is : 5 y is : 5   current diff is: 219836.000000
+x is : 5 y is : 5   current diff is: 256537.000000
+x is : 5 y is : 5   current diff is: 99127.000000
+x is : 5 y is : 5   current diff is: 160851.000000
+x is : 5 y is : 5   current diff is: 235350.000000
+x is : 5 y is : 5   current diff is: 260286.000000
+x is : 5 y is : 5   current diff is: 329240.000000
+x is : 5 y is : 5   current diff is: 88746.000000
+x is : 5 y is : 5   current diff is: 121209.000000
+x is : 5 y is : 5   current diff is: 155308.000000
+x is : 5 y is : 5   current diff is: 227283.000000
+x is : 5 y is : 5   current diff is: 259872.000000
+x is : 5 y is : 5   current diff is: 45649.000000
+x is : 5 y is : 5   current diff is: 65345.000000
+x is : 5 y is : 5   current diff is: 128434.000000
+x is : 5 y is : 5   current diff is: 199051.000000
+x is : 5 y is : 5   current diff is: 247112.000000
+x is : 5 y is : 5   current diff is: 76195.000000
+x is : 5 y is : 5   current diff is: 101843.000000
+x is : 5 y is : 5   current diff is: 156541.000000
+x is : 5 y is : 5   current diff is: 175255.000000
+x is : 5 y is : 5   current diff is: 205565.000000
+x is : 5 y is : 5   current diff is: 52174.000000
+x is : 5 y is : 5   current diff is: 100754.000000
+x is : 5 y is : 5   current diff is: 173435.000000
+x is : 5 y is : 5   current diff is: 192026.000000
+x is : 5 y is : 5   current diff is: 230049.000000
+x is : 5 y is : 5   current diff is: 78381.000000
+x is : 5 y is : 5   current diff is: 127851.000000
+x is : 5 y is : 5   current diff is: 213310.000000
+x is : 5 y is : 5   current diff is: 258409.000000
+x is : 5 y is : 5   current diff is: 299584.000000
+x is : 5 y is : 5   current diff is: 69747.000000
+x is : 5 y is : 5   current diff is: 111836.000000
+x is : 5 y is : 5   current diff is: 215436.000000
+x is : 5 y is : 5   current diff is: 239598.000000
+x is : 5 y is : 5   current diff is: 293849.000000
+x is : 6 y is : 5   current diff is: 64380.000000
+x is : 6 y is : 5   current diff is: 151519.000000
+x is : 6 y is : 5   current diff is: 206262.000000
+x is : 6 y is : 5   current diff is: 279745.000000
+x is : 6 y is : 5   current diff is: 365349.000000
+x is : 6 y is : 5   current diff is: 12521.000000
+x is : 6 y is : 5   current diff is: 91724.000000
+x is : 6 y is : 5   current diff is: 149679.000000
+x is : 6 y is : 5   current diff is: 210667.000000
+x is : 6 y is : 5   current diff is: 244440.000000
+x is : 6 y is : 5   current diff is: 86086.000000
+x is : 6 y is : 5   current diff is: 129606.000000
+x is : 6 y is : 5   current diff is: 200946.000000
+x is : 6 y is : 5   current diff is: 220850.000000
+x is : 6 y is : 5   current diff is: 267756.000000
+x is : 6 y is : 5   current diff is: 52479.000000
+x is : 6 y is : 5   current diff is: 81094.000000
+x is : 6 y is : 5   current diff is: 115793.000000
+x is : 6 y is : 5   current diff is: 155968.000000
+x is : 6 y is : 5   current diff is: 208306.000000
+x is : 6 y is : 5   current diff is: 42577.000000
+x is : 6 y is : 5   current diff is: 65412.000000
+x is : 6 y is : 5   current diff is: 110626.000000
+x is : 6 y is : 5   current diff is: 181354.000000
+x is : 6 y is : 5   current diff is: 217279.000000
+x is : 6 y is : 5   current diff is: 47874.000000
+x is : 6 y is : 5   current diff is: 73522.000000
+x is : 6 y is : 5   current diff is: 139932.000000
+x is : 6 y is : 5   current diff is: 172611.000000
+x is : 6 y is : 5   current diff is: 225770.000000
+x is : 6 y is : 5   current diff is: 46963.000000
+x is : 6 y is : 5   current diff is: 95106.000000
+x is : 6 y is : 5   current diff is: 154799.000000
+x is : 6 y is : 5   current diff is: 160846.000000
+x is : 6 y is : 5   current diff is: 195764.000000
+x is : 6 y is : 5   current diff is: 84717.000000
+x is : 6 y is : 5   current diff is: 128207.000000
+x is : 6 y is : 5   current diff is: 214511.000000
+x is : 6 y is : 5   current diff is: 271643.000000
+x is : 6 y is : 5   current diff is: 306707.000000
+x is : 6 y is : 5   current diff is: 69538.000000
+x is : 6 y is : 5   current diff is: 121692.000000
+x is : 6 y is : 5   current diff is: 222967.000000
+x is : 6 y is : 5   current diff is: 243601.000000
+x is : 6 y is : 5   current diff is: 288536.000000
+x is : 7 y is : 5   current diff is: 74423.000000
+x is : 7 y is : 5   current diff is: 160011.000000
+x is : 7 y is : 5   current diff is: 210981.000000
+x is : 7 y is : 5   current diff is: 284536.000000
+x is : 7 y is : 5   current diff is: 369740.000000
+x is : 7 y is : 5   current diff is: 25442.000000
+x is : 7 y is : 5   current diff is: 101981.000000
+x is : 7 y is : 5   current diff is: 160224.000000
+x is : 7 y is : 5   current diff is: 251127.000000
+x is : 7 y is : 5   current diff is: 280872.000000
+x is : 7 y is : 5   current diff is: 54431.000000
+x is : 7 y is : 5   current diff is: 81075.000000
+x is : 7 y is : 5   current diff is: 121570.000000
+x is : 7 y is : 5   current diff is: 173745.000000
+x is : 7 y is : 5   current diff is: 214767.000000
+x is : 7 y is : 5   current diff is: 52634.000000
+x is : 7 y is : 5   current diff is: 75469.000000
+x is : 7 y is : 5   current diff is: 125428.000000
+x is : 7 y is : 5   current diff is: 194560.000000
+x is : 7 y is : 5   current diff is: 249580.000000
+x is : 7 y is : 5   current diff is: 15651.000000
+x is : 7 y is : 5   current diff is: 66914.000000
+x is : 7 y is : 5   current diff is: 126563.000000
+x is : 7 y is : 5   current diff is: 133870.000000
+x is : 7 y is : 5   current diff is: 146587.000000
+x is : 7 y is : 5   current diff is: 80594.000000
+x is : 7 y is : 5   current diff is: 129879.000000
+x is : 7 y is : 5   current diff is: 217527.000000
+x is : 7 y is : 5   current diff is: 310794.000000
+x is : 7 y is : 5   current diff is: 350842.000000
+x is : 2 y is : 6   current diff is: 52236.000000
+x is : 2 y is : 6   current diff is: 152107.000000
+x is : 2 y is : 6   current diff is: 198659.000000
+x is : 2 y is : 6   current diff is: 276753.000000
+x is : 2 y is : 6   current diff is: 328529.000000
+x is : 2 y is : 6   current diff is: 76594.000000
+x is : 2 y is : 6   current diff is: 103903.000000
+x is : 2 y is : 6   current diff is: 129098.000000
+x is : 2 y is : 6   current diff is: 218682.000000
+x is : 2 y is : 6   current diff is: 245379.000000
+x is : 2 y is : 6   current diff is: 11124.000000
+x is : 2 y is : 6   current diff is: 35582.000000
+x is : 2 y is : 6   current diff is: 78218.000000
+x is : 2 y is : 6   current diff is: 173810.000000
+x is : 2 y is : 6   current diff is: 187665.000000
+x is : 2 y is : 6   current diff is: 56398.000000
+x is : 2 y is : 6   current diff is: 144443.000000
+x is : 2 y is : 6   current diff is: 174045.000000
+x is : 2 y is : 6   current diff is: 203970.000000
+x is : 2 y is : 6   current diff is: 221297.000000
+x is : 2 y is : 6   current diff is: 55903.000000
+x is : 2 y is : 6   current diff is: 122433.000000
+x is : 2 y is : 6   current diff is: 138333.000000
+x is : 2 y is : 6   current diff is: 177702.000000
+x is : 2 y is : 6   current diff is: 242019.000000
+x is : 2 y is : 6   current diff is: 22028.000000
+x is : 2 y is : 6   current diff is: 52426.000000
+x is : 2 y is : 6   current diff is: 87391.000000
+x is : 2 y is : 6   current diff is: 151532.000000
+x is : 2 y is : 6   current diff is: 167746.000000
+x is : 3 y is : 6   current diff is: 87868.000000
+x is : 3 y is : 6   current diff is: 110689.000000
+x is : 3 y is : 6   current diff is: 128778.000000
+x is : 3 y is : 6   current diff is: 163377.000000
+x is : 3 y is : 6   current diff is: 193534.000000
+x is : 3 y is : 6   current diff is: 85260.000000
+x is : 3 y is : 6   current diff is: 169867.000000
+x is : 3 y is : 6   current diff is: 220715.000000
+x is : 3 y is : 6   current diff is: 299624.000000
+x is : 3 y is : 6   current diff is: 351224.000000
+x is : 3 y is : 6   current diff is: 86447.000000
+x is : 3 y is : 6   current diff is: 113405.000000
+x is : 3 y is : 6   current diff is: 137781.000000
+x is : 3 y is : 6   current diff is: 215749.000000
+x is : 3 y is : 6   current diff is: 252391.000000
+x is : 3 y is : 6   current diff is: 77464.000000
+x is : 3 y is : 6   current diff is: 147252.000000
+x is : 3 y is : 6   current diff is: 188219.000000
+x is : 3 y is : 6   current diff is: 207448.000000
+x is : 3 y is : 6   current diff is: 250246.000000
+x is : 3 y is : 6   current diff is: 6364.000000
+x is : 3 y is : 6   current diff is: 33113.000000
+x is : 3 y is : 6   current diff is: 94424.000000
+x is : 3 y is : 6   current diff is: 163800.000000
+x is : 3 y is : 6   current diff is: 173980.000000
+x is : 3 y is : 6   current diff is: 51995.000000
+x is : 3 y is : 6   current diff is: 141000.000000
+x is : 3 y is : 6   current diff is: 171306.000000
+x is : 3 y is : 6   current diff is: 203308.000000
+x is : 3 y is : 6   current diff is: 235176.000000
+x is : 3 y is : 6   current diff is: 12909.000000
+x is : 3 y is : 6   current diff is: 95927.000000
+x is : 3 y is : 6   current diff is: 127152.000000
+x is : 3 y is : 6   current diff is: 188350.000000
+x is : 3 y is : 6   current diff is: 246164.000000
+x is : 3 y is : 6   current diff is: 72682.000000
+x is : 3 y is : 6   current diff is: 133812.000000
+x is : 3 y is : 6   current diff is: 149496.000000
+x is : 3 y is : 6   current diff is: 191994.000000
+x is : 3 y is : 6   current diff is: 256831.000000
+x is : 3 y is : 6   current diff is: 22208.000000
+x is : 3 y is : 6   current diff is: 47831.000000
+x is : 3 y is : 6   current diff is: 79533.000000
+x is : 3 y is : 6   current diff is: 125707.000000
+x is : 3 y is : 6   current diff is: 138666.000000
+x is : 4 y is : 6   current diff is: 106276.000000
+x is : 4 y is : 6   current diff is: 166321.000000
+x is : 4 y is : 6   current diff is: 222315.000000
+x is : 4 y is : 6   current diff is: 281737.000000
+x is : 4 y is : 6   current diff is: 313763.000000
+x is : 4 y is : 6   current diff is: 80789.000000
+x is : 4 y is : 6   current diff is: 125781.000000
+x is : 4 y is : 6   current diff is: 173229.000000
+x is : 4 y is : 6   current diff is: 255050.000000
+x is : 4 y is : 6   current diff is: 274082.000000
+x is : 4 y is : 6   current diff is: 61004.000000
+x is : 4 y is : 6   current diff is: 112847.000000
+x is : 4 y is : 6   current diff is: 146055.000000
+x is : 4 y is : 6   current diff is: 223358.000000
+x is : 4 y is : 6   current diff is: 261920.000000
+x is : 4 y is : 6   current diff is: 53560.000000
+x is : 4 y is : 6   current diff is: 77995.000000
+x is : 4 y is : 6   current diff is: 149970.000000
+x is : 4 y is : 6   current diff is: 169759.000000
+x is : 4 y is : 6   current diff is: 199901.000000
+x is : 4 y is : 6   current diff is: 20821.000000
+x is : 4 y is : 6   current diff is: 75070.000000
+x is : 4 y is : 6   current diff is: 138316.000000
+x is : 4 y is : 6   current diff is: 209561.000000
+x is : 4 y is : 6   current diff is: 215509.000000
+x is : 4 y is : 6   current diff is: 44248.000000
+x is : 4 y is : 6   current diff is: 115521.000000
+x is : 4 y is : 6   current diff is: 125955.000000
+x is : 4 y is : 6   current diff is: 157672.000000
+x is : 4 y is : 6   current diff is: 184644.000000
+x is : 4 y is : 6   current diff is: 50100.000000
+x is : 4 y is : 6   current diff is: 122022.000000
+x is : 4 y is : 6   current diff is: 140844.000000
+x is : 4 y is : 6   current diff is: 194995.000000
+x is : 4 y is : 6   current diff is: 253934.000000
+x is : 4 y is : 6   current diff is: 65158.000000
+x is : 4 y is : 6   current diff is: 139769.000000
+x is : 4 y is : 6   current diff is: 174677.000000
+x is : 4 y is : 6   current diff is: 229352.000000
+x is : 4 y is : 6   current diff is: 256173.000000
+x is : 4 y is : 6   current diff is: 30476.000000
+x is : 4 y is : 6   current diff is: 119019.000000
+x is : 4 y is : 6   current diff is: 144701.000000
+x is : 4 y is : 6   current diff is: 203776.000000
+x is : 4 y is : 6   current diff is: 228691.000000
+x is : 5 y is : 6   current diff is: 116155.000000
+x is : 5 y is : 6   current diff is: 179751.000000
+x is : 5 y is : 6   current diff is: 241574.000000
+x is : 5 y is : 6   current diff is: 285973.000000
+x is : 5 y is : 6   current diff is: 333427.000000
+x is : 5 y is : 6   current diff is: 81524.000000
+x is : 5 y is : 6   current diff is: 132159.000000
+x is : 5 y is : 6   current diff is: 181492.000000
+x is : 5 y is : 6   current diff is: 218193.000000
+x is : 5 y is : 6   current diff is: 237873.000000
+x is : 5 y is : 6   current diff is: 61724.000000
+x is : 5 y is : 6   current diff is: 136223.000000
+x is : 5 y is : 6   current diff is: 161159.000000
+x is : 5 y is : 6   current diff is: 230113.000000
+x is : 5 y is : 6   current diff is: 286396.000000
+x is : 5 y is : 6   current diff is: 32463.000000
+x is : 5 y is : 6   current diff is: 66562.000000
+x is : 5 y is : 6   current diff is: 138537.000000
+x is : 5 y is : 6   current diff is: 171126.000000
+x is : 5 y is : 6   current diff is: 219568.000000
+x is : 5 y is : 6   current diff is: 19696.000000
+x is : 5 y is : 6   current diff is: 82785.000000
+x is : 5 y is : 6   current diff is: 153402.000000
+x is : 5 y is : 6   current diff is: 201463.000000
+x is : 5 y is : 6   current diff is: 226947.000000
+x is : 5 y is : 6   current diff is: 25648.000000
+x is : 5 y is : 6   current diff is: 80346.000000
+x is : 5 y is : 6   current diff is: 99060.000000
+x is : 5 y is : 6   current diff is: 129370.000000
+x is : 5 y is : 6   current diff is: 184230.000000
+x is : 5 y is : 6   current diff is: 48580.000000
+x is : 5 y is : 6   current diff is: 121261.000000
+x is : 5 y is : 6   current diff is: 139852.000000
+x is : 5 y is : 6   current diff is: 177875.000000
+x is : 5 y is : 6   current diff is: 237726.000000
+x is : 5 y is : 6   current diff is: 49470.000000
+x is : 5 y is : 6   current diff is: 134929.000000
+x is : 5 y is : 6   current diff is: 180028.000000
+x is : 5 y is : 6   current diff is: 221203.000000
+x is : 5 y is : 6   current diff is: 242992.000000
+x is : 5 y is : 6   current diff is: 42089.000000
+x is : 5 y is : 6   current diff is: 145689.000000
+x is : 5 y is : 6   current diff is: 169851.000000
+x is : 5 y is : 6   current diff is: 224102.000000
+x is : 5 y is : 6   current diff is: 251105.000000
+x is : 6 y is : 6   current diff is: 87139.000000
+x is : 6 y is : 6   current diff is: 141882.000000
+x is : 6 y is : 6   current diff is: 215365.000000
+x is : 6 y is : 6   current diff is: 300969.000000
+x is : 6 y is : 6   current diff is: 348823.000000
+x is : 6 y is : 6   current diff is: 79203.000000
+x is : 6 y is : 6   current diff is: 137158.000000
+x is : 6 y is : 6   current diff is: 198146.000000
+x is : 6 y is : 6   current diff is: 231919.000000
+x is : 6 y is : 6   current diff is: 266580.000000
+x is : 6 y is : 6   current diff is: 43520.000000
+x is : 6 y is : 6   current diff is: 114860.000000
+x is : 6 y is : 6   current diff is: 134764.000000
+x is : 6 y is : 6   current diff is: 181670.000000
+x is : 6 y is : 6   current diff is: 232961.000000
+x is : 6 y is : 6   current diff is: 28615.000000
+x is : 6 y is : 6   current diff is: 63314.000000
+x is : 6 y is : 6   current diff is: 103489.000000
+x is : 6 y is : 6   current diff is: 155827.000000
+x is : 6 y is : 6   current diff is: 223949.000000
+x is : 6 y is : 6   current diff is: 22835.000000
+x is : 6 y is : 6   current diff is: 68049.000000
+x is : 6 y is : 6   current diff is: 138777.000000
+x is : 6 y is : 6   current diff is: 174702.000000
+x is : 6 y is : 6   current diff is: 227786.000000
+x is : 6 y is : 6   current diff is: 25648.000000
+x is : 6 y is : 6   current diff is: 92058.000000
+x is : 6 y is : 6   current diff is: 124737.000000
+x is : 6 y is : 6   current diff is: 177896.000000
+x is : 6 y is : 6   current diff is: 226087.000000
+x is : 6 y is : 6   current diff is: 48143.000000
+x is : 6 y is : 6   current diff is: 107836.000000
+x is : 6 y is : 6   current diff is: 113883.000000
+x is : 6 y is : 6   current diff is: 148801.000000
+x is : 6 y is : 6   current diff is: 206996.000000
+x is : 6 y is : 6   current diff is: 43490.000000
+x is : 6 y is : 6   current diff is: 129794.000000
+x is : 6 y is : 6   current diff is: 186926.000000
+x is : 6 y is : 6   current diff is: 221990.000000
+x is : 6 y is : 6   current diff is: 245819.000000
+x is : 6 y is : 6   current diff is: 52154.000000
+x is : 6 y is : 6   current diff is: 153429.000000
+x is : 6 y is : 6   current diff is: 174063.000000
+x is : 6 y is : 6   current diff is: 218998.000000
+x is : 6 y is : 6   current diff is: 287708.000000
+x is : 7 y is : 6   current diff is: 85588.000000
+x is : 7 y is : 6   current diff is: 136558.000000
+x is : 7 y is : 6   current diff is: 210113.000000
+x is : 7 y is : 6   current diff is: 295317.000000
+x is : 7 y is : 6   current diff is: 344407.000000
+x is : 7 y is : 6   current diff is: 76539.000000
+x is : 7 y is : 6   current diff is: 134782.000000
+x is : 7 y is : 6   current diff is: 225685.000000
+x is : 7 y is : 6   current diff is: 255430.000000
+x is : 7 y is : 6   current diff is: 282054.000000
+x is : 7 y is : 6   current diff is: 26644.000000
+x is : 7 y is : 6   current diff is: 67139.000000
+x is : 7 y is : 6   current diff is: 119314.000000
+x is : 7 y is : 6   current diff is: 160336.000000
+x is : 7 y is : 6   current diff is: 227093.000000
+x is : 7 y is : 6   current diff is: 22835.000000
+x is : 7 y is : 6   current diff is: 72794.000000
+x is : 7 y is : 6   current diff is: 141926.000000
+x is : 7 y is : 6   current diff is: 196946.000000
+x is : 7 y is : 6   current diff is: 246766.000000
+x is : 7 y is : 6   current diff is: 51263.000000
+x is : 7 y is : 6   current diff is: 110912.000000
+x is : 7 y is : 6   current diff is: 118219.000000
+x is : 7 y is : 6   current diff is: 130936.000000
+x is : 7 y is : 6   current diff is: 166526.000000
+x is : 7 y is : 6   current diff is: 49285.000000
+x is : 7 y is : 6   current diff is: 136933.000000
+x is : 7 y is : 6   current diff is: 230200.000000
+x is : 7 y is : 6   current diff is: 270248.000000
+x is : 7 y is : 6   current diff is: 302869.000000
+x is : 2 y is : 7   current diff is: 99871.000000
+x is : 2 y is : 7   current diff is: 146423.000000
+x is : 2 y is : 7   current diff is: 224517.000000
+x is : 2 y is : 7   current diff is: 276293.000000
+x is : 2 y is : 7   current diff is: 284611.000000
+x is : 2 y is : 7   current diff is: 27309.000000
+x is : 2 y is : 7   current diff is: 52504.000000
+x is : 2 y is : 7   current diff is: 142088.000000
+x is : 2 y is : 7   current diff is: 168785.000000
+x is : 2 y is : 7   current diff is: 186057.000000
+x is : 2 y is : 7   current diff is: 24458.000000
+x is : 2 y is : 7   current diff is: 67094.000000
+x is : 2 y is : 7   current diff is: 162686.000000
+x is : 2 y is : 7   current diff is: 176541.000000
+x is : 2 y is : 7   current diff is: 238023.000000
+x is : 2 y is : 7   current diff is: 88045.000000
+x is : 2 y is : 7   current diff is: 117647.000000
+x is : 2 y is : 7   current diff is: 147572.000000
+x is : 2 y is : 7   current diff is: 164899.000000
+x is : 2 y is : 7   current diff is: 174044.000000
+x is : 3 y is : 7   current diff is: 22821.000000
+x is : 3 y is : 7   current diff is: 40910.000000
+x is : 3 y is : 7   current diff is: 75509.000000
+x is : 3 y is : 7   current diff is: 105666.000000
+x is : 3 y is : 7   current diff is: 142389.000000
+x is : 3 y is : 7   current diff is: 84607.000000
+x is : 3 y is : 7   current diff is: 135455.000000
+x is : 3 y is : 7   current diff is: 214364.000000
+x is : 3 y is : 7   current diff is: 265964.000000
+x is : 3 y is : 7   current diff is: 274187.000000
+x is : 3 y is : 7   current diff is: 26958.000000
+x is : 3 y is : 7   current diff is: 51334.000000
+x is : 3 y is : 7   current diff is: 129302.000000
+x is : 3 y is : 7   current diff is: 165944.000000
+x is : 3 y is : 7   current diff is: 192841.000000
+x is : 3 y is : 7   current diff is: 69788.000000
+x is : 3 y is : 7   current diff is: 110755.000000
+x is : 3 y is : 7   current diff is: 129984.000000
+x is : 3 y is : 7   current diff is: 172782.000000
+x is : 3 y is : 7   current diff is: 225809.000000
+x is : 3 y is : 7   current diff is: 26749.000000
+x is : 3 y is : 7   current diff is: 88060.000000
+x is : 3 y is : 7   current diff is: 157436.000000
+x is : 3 y is : 7   current diff is: 167616.000000
+x is : 3 y is : 7   current diff is: 224682.000000
+x is : 3 y is : 7   current diff is: 89005.000000
+x is : 3 y is : 7   current diff is: 119311.000000
+x is : 3 y is : 7   current diff is: 151313.000000
+x is : 3 y is : 7   current diff is: 183181.000000
+x is : 3 y is : 7   current diff is: 196995.000000
+x is : 4 y is : 7   current diff is: 60045.000000
+x is : 4 y is : 7   current diff is: 116039.000000
+x is : 4 y is : 7   current diff is: 175461.000000
+x is : 4 y is : 7   current diff is: 207487.000000
+x is : 4 y is : 7   current diff is: 276243.000000
+x is : 4 y is : 7   current diff is: 44992.000000
+x is : 4 y is : 7   current diff is: 92440.000000
+x is : 4 y is : 7   current diff is: 174261.000000
+x is : 4 y is : 7   current diff is: 193293.000000
+x is : 4 y is : 7   current diff is: 210293.000000
+x is : 4 y is : 7   current diff is: 51843.000000
+x is : 4 y is : 7   current diff is: 85051.000000
+x is : 4 y is : 7   current diff is: 162354.000000
+x is : 4 y is : 7   current diff is: 200916.000000
+x is : 4 y is : 7   current diff is: 235394.000000
+x is : 4 y is : 7   current diff is: 24435.000000
+x is : 4 y is : 7   current diff is: 96410.000000
+x is : 4 y is : 7   current diff is: 116199.000000
+x is : 4 y is : 7   current diff is: 146341.000000
+x is : 4 y is : 7   current diff is: 234648.000000
+x is : 4 y is : 7   current diff is: 54249.000000
+x is : 4 y is : 7   current diff is: 117495.000000
+x is : 4 y is : 7   current diff is: 188740.000000
+x is : 4 y is : 7   current diff is: 194688.000000
+x is : 4 y is : 7   current diff is: 240951.000000
+x is : 4 y is : 7   current diff is: 71273.000000
+x is : 4 y is : 7   current diff is: 81707.000000
+x is : 4 y is : 7   current diff is: 113424.000000
+x is : 4 y is : 7   current diff is: 140396.000000
+x is : 4 y is : 7   current diff is: 207409.000000
+x is : 5 y is : 7   current diff is: 63596.000000
+x is : 5 y is : 7   current diff is: 125419.000000
+x is : 5 y is : 7   current diff is: 169818.000000
+x is : 5 y is : 7   current diff is: 217272.000000
+x is : 5 y is : 7   current diff is: 295676.000000
+x is : 5 y is : 7   current diff is: 50635.000000
+x is : 5 y is : 7   current diff is: 99968.000000
+x is : 5 y is : 7   current diff is: 136669.000000
+x is : 5 y is : 7   current diff is: 156349.000000
+x is : 5 y is : 7   current diff is: 184173.000000
+x is : 5 y is : 7   current diff is: 74499.000000
+x is : 5 y is : 7   current diff is: 99435.000000
+x is : 5 y is : 7   current diff is: 168389.000000
+x is : 5 y is : 7   current diff is: 224672.000000
+x is : 5 y is : 7   current diff is: 276850.000000
+x is : 5 y is : 7   current diff is: 34099.000000
+x is : 5 y is : 7   current diff is: 106074.000000
+x is : 5 y is : 7   current diff is: 138663.000000
+x is : 5 y is : 7   current diff is: 187105.000000
+x is : 5 y is : 7   current diff is: 273276.000000
+x is : 5 y is : 7   current diff is: 63089.000000
+x is : 5 y is : 7   current diff is: 133706.000000
+x is : 5 y is : 7   current diff is: 181767.000000
+x is : 5 y is : 7   current diff is: 207251.000000
+x is : 5 y is : 7   current diff is: 246670.000000
+x is : 5 y is : 7   current diff is: 54698.000000
+x is : 5 y is : 7   current diff is: 73412.000000
+x is : 5 y is : 7   current diff is: 103722.000000
+x is : 5 y is : 7   current diff is: 158582.000000
+x is : 5 y is : 7   current diff is: 225007.000000
+x is : 6 y is : 7   current diff is: 54743.000000
+x is : 6 y is : 7   current diff is: 128226.000000
+x is : 6 y is : 7   current diff is: 213830.000000
+x is : 6 y is : 7   current diff is: 261684.000000
+x is : 6 y is : 7   current diff is: 344136.000000
+x is : 6 y is : 7   current diff is: 57955.000000
+x is : 6 y is : 7   current diff is: 118943.000000
+x is : 6 y is : 7   current diff is: 152716.000000
+x is : 6 y is : 7   current diff is: 187377.000000
+x is : 6 y is : 7   current diff is: 215901.000000
+x is : 6 y is : 7   current diff is: 71340.000000
+x is : 6 y is : 7   current diff is: 91244.000000
+x is : 6 y is : 7   current diff is: 138150.000000
+x is : 6 y is : 7   current diff is: 189441.000000
+x is : 6 y is : 7   current diff is: 251252.000000
+x is : 6 y is : 7   current diff is: 34699.000000
+x is : 6 y is : 7   current diff is: 74874.000000
+x is : 6 y is : 7   current diff is: 127212.000000
+x is : 6 y is : 7   current diff is: 195334.000000
+x is : 6 y is : 7   current diff is: 321357.000000
+x is : 6 y is : 7   current diff is: 45214.000000
+x is : 6 y is : 7   current diff is: 115942.000000
+x is : 6 y is : 7   current diff is: 151867.000000
+x is : 6 y is : 7   current diff is: 204951.000000
+x is : 6 y is : 7   current diff is: 269646.000000
+x is : 6 y is : 7   current diff is: 66410.000000
+x is : 6 y is : 7   current diff is: 99089.000000
+x is : 6 y is : 7   current diff is: 152248.000000
+x is : 6 y is : 7   current diff is: 200439.000000
+x is : 6 y is : 7   current diff is: 266197.000000
+x is : 7 y is : 7   current diff is: 50970.000000
+x is : 7 y is : 7   current diff is: 124525.000000
+x is : 7 y is : 7   current diff is: 209729.000000
+x is : 7 y is : 7   current diff is: 258819.000000
+x is : 7 y is : 7   current diff is: 343095.000000
+x is : 7 y is : 7   current diff is: 58243.000000
+x is : 7 y is : 7   current diff is: 149146.000000
+x is : 7 y is : 7   current diff is: 178891.000000
+x is : 7 y is : 7   current diff is: 205515.000000
+x is : 7 y is : 7   current diff is: 231118.000000
+x is : 7 y is : 7   current diff is: 40495.000000
+x is : 7 y is : 7   current diff is: 92670.000000
+x is : 7 y is : 7   current diff is: 133692.000000
+x is : 7 y is : 7   current diff is: 200449.000000
+x is : 7 y is : 7   current diff is: 301776.000000
+x is : 7 y is : 7   current diff is: 49959.000000
+x is : 7 y is : 7   current diff is: 119091.000000
+x is : 7 y is : 7   current diff is: 174111.000000
+x is : 7 y is : 7   current diff is: 223931.000000
+x is : 7 y is : 7   current diff is: 302081.000000
+x is : 2 y is : 2origin diff is: 165539.000000
+x is : 2 y is : 2origin diff is: 182642.000000
+x is : 2 y is : 2origin diff is: 242690.000000
+x is : 2 y is : 2origin diff is: 204741.000000
+x is : 3 y is : 2origin diff is: 300642.000000
+x is : 3 y is : 2origin diff is: 153699.000000
+x is : 3 y is : 2origin diff is: 191743.000000
+x is : 3 y is : 2origin diff is: 142617.000000
+x is : 3 y is : 2origin diff is: 272256.000000
+x is : 3 y is : 2origin diff is: 207180.000000
+x is : 4 y is : 2origin diff is: 296707.000000
+x is : 4 y is : 2origin diff is: 159811.000000
+x is : 4 y is : 2origin diff is: 265786.000000
+x is : 4 y is : 2origin diff is: 210520.000000
+x is : 4 y is : 2origin diff is: 257870.000000
+x is : 4 y is : 2origin diff is: 243423.000000
+x is : 5 y is : 2origin diff is: 315023.000000
+x is : 5 y is : 2origin diff is: 153296.000000
+x is : 5 y is : 2origin diff is: 284299.000000
+x is : 5 y is : 2origin diff is: 197630.000000
+x is : 5 y is : 2origin diff is: 306479.000000
+x is : 5 y is : 2origin diff is: 322396.000000
+x is : 6 y is : 2origin diff is: 237716.000000
+x is : 6 y is : 2origin diff is: 157577.000000
+x is : 6 y is : 2origin diff is: 280182.000000
+x is : 6 y is : 2origin diff is: 184853.000000
+x is : 6 y is : 2origin diff is: 286938.000000
+x is : 6 y is : 2origin diff is: 343249.000000
+x is : 7 y is : 2origin diff is: 255226.000000
+x is : 7 y is : 2origin diff is: 163641.000000
+x is : 7 y is : 2origin diff is: 173605.000000
+x is : 7 y is : 2origin diff is: 277366.000000
+x is : 2 y is : 3origin diff is: 267893.000000
+x is : 2 y is : 3origin diff is: 268216.000000
+x is : 2 y is : 3origin diff is: 130412.000000
+x is : 2 y is : 3origin diff is: 225251.000000
+x is : 2 y is : 3origin diff is: 277163.000000
+x is : 2 y is : 3origin diff is: 203847.000000
+x is : 3 y is : 3origin diff is: 319777.000000
+x is : 3 y is : 3origin diff is: 263720.000000
+x is : 3 y is : 3origin diff is: 292380.000000
+x is : 3 y is : 3origin diff is: 239624.000000
+x is : 3 y is : 3origin diff is: 136235.000000
+x is : 3 y is : 3origin diff is: 241605.000000
+x is : 3 y is : 3origin diff is: 200813.000000
+x is : 3 y is : 3origin diff is: 296849.000000
+x is : 3 y is : 3origin diff is: 203908.000000
+x is : 4 y is : 3origin diff is: 336953.000000
+x is : 4 y is : 3origin diff is: 220461.000000
+x is : 4 y is : 3origin diff is: 318914.000000
+x is : 4 y is : 3origin diff is: 197388.000000
+x is : 4 y is : 3origin diff is: 187100.000000
+x is : 4 y is : 3origin diff is: 263653.000000
+x is : 4 y is : 3origin diff is: 246580.000000
+x is : 4 y is : 3origin diff is: 293621.000000
+x is : 4 y is : 3origin diff is: 264368.000000
+x is : 5 y is : 3origin diff is: 360397.000000
+x is : 5 y is : 3origin diff is: 247820.000000
+x is : 5 y is : 3origin diff is: 309025.000000
+x is : 5 y is : 3origin diff is: 239228.000000
+x is : 5 y is : 3origin diff is: 177777.000000
+x is : 5 y is : 3origin diff is: 259116.000000
+x is : 5 y is : 3origin diff is: 239861.000000
+x is : 5 y is : 3origin diff is: 330050.000000
+x is : 5 y is : 3origin diff is: 356119.000000
+x is : 6 y is : 3origin diff is: 285216.000000
+x is : 6 y is : 3origin diff is: 227765.000000
+x is : 6 y is : 3origin diff is: 283076.000000
+x is : 6 y is : 3origin diff is: 206313.000000
+x is : 6 y is : 3origin diff is: 163286.000000
+x is : 6 y is : 3origin diff is: 266063.000000
+x is : 6 y is : 3origin diff is: 218448.000000
+x is : 6 y is : 3origin diff is: 324285.000000
+x is : 6 y is : 3origin diff is: 378775.000000
+x is : 7 y is : 3origin diff is: 320150.000000
+x is : 7 y is : 3origin diff is: 242169.000000
+x is : 7 y is : 3origin diff is: 216659.000000
+x is : 7 y is : 3origin diff is: 178274.000000
+x is : 7 y is : 3origin diff is: 205188.000000
+x is : 7 y is : 3origin diff is: 317328.000000
+x is : 2 y is : 4origin diff is: 285222.000000
+x is : 2 y is : 4origin diff is: 212291.000000
+x is : 2 y is : 4origin diff is: 136241.000000
+x is : 2 y is : 4origin diff is: 240477.000000
+x is : 2 y is : 4origin diff is: 219469.000000
+x is : 2 y is : 4origin diff is: 200951.000000
+x is : 3 y is : 4origin diff is: 194120.000000
+x is : 3 y is : 4origin diff is: 293505.000000
+x is : 3 y is : 4origin diff is: 252807.000000
+x is : 3 y is : 4origin diff is: 250157.000000
+x is : 3 y is : 4origin diff is: 153619.000000
+x is : 3 y is : 4origin diff is: 257250.000000
+x is : 3 y is : 4origin diff is: 201283.000000
+x is : 3 y is : 4origin diff is: 242239.000000
+x is : 3 y is : 4origin diff is: 159624.000000
+x is : 4 y is : 4origin diff is: 275521.000000
+x is : 4 y is : 4origin diff is: 249175.000000
+x is : 4 y is : 4origin diff is: 277778.000000
+x is : 4 y is : 4origin diff is: 249877.000000
+x is : 4 y is : 4origin diff is: 219284.000000
+x is : 4 y is : 4origin diff is: 224831.000000
+x is : 4 y is : 4origin diff is: 232215.000000
+x is : 4 y is : 4origin diff is: 244000.000000
+x is : 4 y is : 4origin diff is: 216872.000000
+x is : 5 y is : 4origin diff is: 326549.000000
+x is : 5 y is : 4origin diff is: 279014.000000
+x is : 5 y is : 4origin diff is: 282417.000000
+x is : 5 y is : 4origin diff is: 284592.000000
+x is : 5 y is : 4origin diff is: 220907.000000
+x is : 5 y is : 4origin diff is: 227198.000000
+x is : 5 y is : 4origin diff is: 225724.000000
+x is : 5 y is : 4origin diff is: 280168.000000
+x is : 5 y is : 4origin diff is: 293023.000000
+x is : 6 y is : 4origin diff is: 294900.000000
+x is : 6 y is : 4origin diff is: 270901.000000
+x is : 6 y is : 4origin diff is: 251436.000000
+x is : 6 y is : 4origin diff is: 221189.000000
+x is : 6 y is : 4origin diff is: 210202.000000
+x is : 6 y is : 4origin diff is: 240910.000000
+x is : 6 y is : 4origin diff is: 185368.000000
+x is : 6 y is : 4origin diff is: 295481.000000
+x is : 6 y is : 4origin diff is: 302726.000000
+x is : 7 y is : 4origin diff is: 304146.000000
+x is : 7 y is : 4origin diff is: 311157.000000
+x is : 7 y is : 4origin diff is: 235855.000000
+x is : 7 y is : 4origin diff is: 223663.000000
+x is : 7 y is : 4origin diff is: 185464.000000
+x is : 7 y is : 4origin diff is: 330679.000000
+x is : 2 y is : 5origin diff is: 318107.000000
+x is : 2 y is : 5origin diff is: 267097.000000
+x is : 2 y is : 5origin diff is: 210531.000000
+x is : 2 y is : 5origin diff is: 240673.000000
+x is : 2 y is : 5origin diff is: 234327.000000
+x is : 2 y is : 5origin diff is: 228527.000000
+x is : 3 y is : 5origin diff is: 215063.000000
+x is : 3 y is : 5origin diff is: 337045.000000
+x is : 3 y is : 5origin diff is: 308548.000000
+x is : 3 y is : 5origin diff is: 255753.000000
+x is : 3 y is : 5origin diff is: 198473.000000
+x is : 3 y is : 5origin diff is: 242738.000000
+x is : 3 y is : 5origin diff is: 248819.000000
+x is : 3 y is : 5origin diff is: 276891.000000
+x is : 3 y is : 5origin diff is: 181813.000000
+x is : 4 y is : 5origin diff is: 324527.000000
+x is : 4 y is : 5origin diff is: 292814.000000
+x is : 4 y is : 5origin diff is: 332341.000000
+x is : 4 y is : 5origin diff is: 263333.000000
+x is : 4 y is : 5origin diff is: 261482.000000
+x is : 4 y is : 5origin diff is: 204734.000000
+x is : 4 y is : 5origin diff is: 255869.000000
+x is : 4 y is : 5origin diff is: 288761.000000
+x is : 4 y is : 5origin diff is: 257242.000000
+x is : 5 y is : 5origin diff is: 358088.000000
+x is : 5 y is : 5origin diff is: 256537.000000
+x is : 5 y is : 5origin diff is: 329240.000000
+x is : 5 y is : 5origin diff is: 259872.000000
+x is : 5 y is : 5origin diff is: 247112.000000
+x is : 5 y is : 5origin diff is: 205565.000000
+x is : 5 y is : 5origin diff is: 230049.000000
+x is : 5 y is : 5origin diff is: 299584.000000
+x is : 5 y is : 5origin diff is: 293849.000000
+x is : 6 y is : 5origin diff is: 365349.000000
+x is : 6 y is : 5origin diff is: 244440.000000
+x is : 6 y is : 5origin diff is: 267756.000000
+x is : 6 y is : 5origin diff is: 208306.000000
+x is : 6 y is : 5origin diff is: 217279.000000
+x is : 6 y is : 5origin diff is: 225770.000000
+x is : 6 y is : 5origin diff is: 195764.000000
+x is : 6 y is : 5origin diff is: 306707.000000
+x is : 6 y is : 5origin diff is: 288536.000000
+x is : 7 y is : 5origin diff is: 369740.000000
+x is : 7 y is : 5origin diff is: 280872.000000
+x is : 7 y is : 5origin diff is: 214767.000000
+x is : 7 y is : 5origin diff is: 249580.000000
+x is : 7 y is : 5origin diff is: 146587.000000
+x is : 7 y is : 5origin diff is: 350842.000000
+x is : 2 y is : 6origin diff is: 328529.000000
+x is : 2 y is : 6origin diff is: 245379.000000
+x is : 2 y is : 6origin diff is: 187665.000000
+x is : 2 y is : 6origin diff is: 221297.000000
+x is : 2 y is : 6origin diff is: 242019.000000
+x is : 2 y is : 6origin diff is: 167746.000000
+x is : 3 y is : 6origin diff is: 193534.000000
+x is : 3 y is : 6origin diff is: 351224.000000
+x is : 3 y is : 6origin diff is: 252391.000000
+x is : 3 y is : 6origin diff is: 250246.000000
+x is : 3 y is : 6origin diff is: 173980.000000
+x is : 3 y is : 6origin diff is: 235176.000000
+x is : 3 y is : 6origin diff is: 246164.000000
+x is : 3 y is : 6origin diff is: 256831.000000
+x is : 3 y is : 6origin diff is: 138666.000000
+x is : 4 y is : 6origin diff is: 313763.000000
+x is : 4 y is : 6origin diff is: 274082.000000
+x is : 4 y is : 6origin diff is: 261920.000000
+x is : 4 y is : 6origin diff is: 199901.000000
+x is : 4 y is : 6origin diff is: 215509.000000
+x is : 4 y is : 6origin diff is: 184644.000000
+x is : 4 y is : 6origin diff is: 253934.000000
+x is : 4 y is : 6origin diff is: 256173.000000
+x is : 4 y is : 6origin diff is: 228691.000000
+x is : 5 y is : 6origin diff is: 333427.000000
+x is : 5 y is : 6origin diff is: 237873.000000
+x is : 5 y is : 6origin diff is: 286396.000000
+x is : 5 y is : 6origin diff is: 219568.000000
+x is : 5 y is : 6origin diff is: 226947.000000
+x is : 5 y is : 6origin diff is: 184230.000000
+x is : 5 y is : 6origin diff is: 237726.000000
+x is : 5 y is : 6origin diff is: 242992.000000
+x is : 5 y is : 6origin diff is: 251105.000000
+x is : 6 y is : 6origin diff is: 348823.000000
+x is : 6 y is : 6origin diff is: 266580.000000
+x is : 6 y is : 6origin diff is: 232961.000000
+x is : 6 y is : 6origin diff is: 223949.000000
+x is : 6 y is : 6origin diff is: 227786.000000
+x is : 6 y is : 6origin diff is: 226087.000000
+x is : 6 y is : 6origin diff is: 206996.000000
+x is : 6 y is : 6origin diff is: 245819.000000
+x is : 6 y is : 6origin diff is: 287708.000000
+x is : 7 y is : 6origin diff is: 344407.000000
+x is : 7 y is : 6origin diff is: 282054.000000
+x is : 7 y is : 6origin diff is: 227093.000000
+x is : 7 y is : 6origin diff is: 246766.000000
+x is : 7 y is : 6origin diff is: 166526.000000
+x is : 7 y is : 6origin diff is: 302869.000000
+x is : 2 y is : 7origin diff is: 284611.000000
+x is : 2 y is : 7origin diff is: 186057.000000
+x is : 2 y is : 7origin diff is: 238023.000000
+x is : 2 y is : 7origin diff is: 174044.000000
+x is : 3 y is : 7origin diff is: 142389.000000
+x is : 3 y is : 7origin diff is: 274187.000000
+x is : 3 y is : 7origin diff is: 192841.000000
+x is : 3 y is : 7origin diff is: 225809.000000
+x is : 3 y is : 7origin diff is: 224682.000000
+x is : 3 y is : 7origin diff is: 196995.000000
+x is : 4 y is : 7origin diff is: 276243.000000
+x is : 4 y is : 7origin diff is: 210293.000000
+x is : 4 y is : 7origin diff is: 235394.000000
+x is : 4 y is : 7origin diff is: 234648.000000
+x is : 4 y is : 7origin diff is: 240951.000000
+x is : 4 y is : 7origin diff is: 207409.000000
+x is : 5 y is : 7origin diff is: 295676.000000
+x is : 5 y is : 7origin diff is: 184173.000000
+x is : 5 y is : 7origin diff is: 276850.000000
+x is : 5 y is : 7origin diff is: 273276.000000
+x is : 5 y is : 7origin diff is: 246670.000000
+x is : 5 y is : 7origin diff is: 225007.000000
+x is : 6 y is : 7origin diff is: 344136.000000
+x is : 6 y is : 7origin diff is: 215901.000000
+x is : 6 y is : 7origin diff is: 251252.000000
+x is : 6 y is : 7origin diff is: 321357.000000
+x is : 6 y is : 7origin diff is: 269646.000000
+x is : 6 y is : 7origin diff is: 266197.000000
+x is : 7 y is : 7origin diff is: 343095.000000
+x is : 7 y is : 7origin diff is: 231118.000000
+x is : 7 y is : 7origin diff is: 301776.000000
+x is : 7 y is : 7origin diff is: 302081.000000

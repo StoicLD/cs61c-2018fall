@@ -62,8 +62,6 @@ void calc_depth_naive(float *depth, float *left, float *right, int image_width,
                         }
                     }
                     //更新取最小值
-		    if(image_height == 10)
-			    printf("%s %f\n", "origin diff is:",squared_diff);
                     if (min_diff == -1 || min_diff > squared_diff
                             || (min_diff == squared_diff
                                 && displacement_naive(dx, dy) < displacement_naive(min_dx, min_dy))) {
