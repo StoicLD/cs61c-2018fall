@@ -14,10 +14,19 @@
 #include <stddef.h>
 #include <stdio.h>
 
-#include "calc_depth_naive.h"
+//#include "calc_depth_naive.h"
 #include "calc_depth_optimized.h"
 #include "utils.h"
+/* Implements the displacement function */
+float displacement_naive_2(int dx, int dy) {
+    return sqrt(dx * dx + dy * dy);
+}
 
+/* Helper function to return the square euclidean distance between two values. */
+float square_euclidean_distance_2(float a, float b) {
+    int diff = a - b;
+    return diff * diff;
+}
 __m128 square_e_d(__m128 x, __m128 y)
 {
     __m128 de =  _mm_sub_ps(x, y);
@@ -62,14 +71,39 @@ void calc_depth_optimized(float *depth, float *left, float *right,
                     //     }
                     // }
                     //-------------------------------------------------------
+
+                    float sum_by_four[4];
+
+                    __m128 accumalte =  _mm_setzero_ps();
                     for (int box_y = -feature_height; box_y <= feature_height; box_y++) {
                     /* YOUR CODE GOES HERE */
-                        float sum_by_four[4];
 
                         int left_y = y + box_y;
                         int right_y = y + dy + box_y;
-                        __m128 accumalte =  _mm_setzero_ps();
                         int box_x = -feature_width;
+                        for ( ; box_x <= feature_width - 7; box_x += 8)
+                        {
+            			    int left_x = x + box_x;
+			                int right_x = x + dx + box_x;
+                            __m128 rigth_four = _mm_loadu_ps ((right + right_y*image_width + right_x));
+                            __m128 left_four = _mm_loadu_ps ((left + left_y*image_width + left_x));
+
+                            //以四个为一组计算欧式距离
+                            __m128 edu_dis = square_e_d(rigth_four, left_four);
+
+                            //累加
+                            accumalte = _mm_add_ps(edu_dis, accumalte);
+
+                            rigth_four = _mm_loadu_ps ((right + right_y*image_width + right_x + 4));
+                            left_four = _mm_loadu_ps ((left + left_y*image_width + left_x + 4));
+
+                            //以四个为一组计算欧式距离
+                            edu_dis = square_e_d(rigth_four, left_four);
+
+                            //累加
+                            accumalte = _mm_add_ps(edu_dis, accumalte);
+
+                        }
                         for ( ; box_x <= feature_width - 3; box_x += 4)
                         {
             			    int left_x = x + box_x;
@@ -84,28 +118,35 @@ void calc_depth_optimized(float *depth, float *left, float *right,
                             accumalte = _mm_add_ps(edu_dis, accumalte);
                         }
 
+                        /*
                         _mm_storeu_ps(sum_by_four, accumalte);
 
                         for(int j = 0; j<4 ; j++)
                         {
                             squared_diff += sum_by_four[j];
                         }
+                        */
 
                         //特殊情况的处理
                         for(; box_x <= feature_width ; box_x++)
                         {
                             int left_x = x + box_x;
                             int right_x = x + dx + box_x;
-                            squared_diff += square_euclidean_distance(
+                            squared_diff += square_euclidean_distance_2(
                                     left[left_y * image_width + left_x],
                                     right[right_y * image_width + right_x]
                                     );
                         }
                     }
+                    _mm_storeu_ps(sum_by_four, accumalte);
+                    for(int j = 0; j<4 ; j++)
+                    {
+                        squared_diff += sum_by_four[j];
+                    }
                     //-------------------------------------------------------
                     if (min_diff == -1 || min_diff > squared_diff
                             || (min_diff == squared_diff
-                                && displacement_naive(dx, dy) < displacement_naive(min_dx, min_dy))) {
+                                && displacement_naive_2(dx, dy) < displacement_naive_2(min_dx, min_dy))) {
                         min_diff = squared_diff;
                         min_dx = dx;
                         min_dy = dy;
@@ -116,7 +157,7 @@ void calc_depth_optimized(float *depth, float *left, float *right,
                 if (maximum_displacement == 0) {
                     depth[y * image_width + x] = 0;
                 } else {
-                    depth[y * image_width + x] = displacement_naive(min_dx, min_dy);
+                    depth[y * image_width + x] = displacement_naive_2(min_dx, min_dy);
                 }
             } else {
                 depth[y * image_width + x] = 0;

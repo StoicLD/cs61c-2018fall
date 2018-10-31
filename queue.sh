@@ -5,7 +5,7 @@
 
 # Specify email address to use for notification.
 #PBS -m bea
-#PBS -M [email]@berkeley.edu
+#PBS -M dong.li98@berkeley.edu
 
 # Specify the number of virtual processors by changing ppn.
 #PBS -l nodes=1:ppn=1
