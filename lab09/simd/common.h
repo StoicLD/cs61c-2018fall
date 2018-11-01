@@ -77,7 +77,6 @@ long long int sum_simd(unsigned int vals[NUM_ELEMS]) {
 			if(vals[i] > 127)
 				result += vals[i];
 		}
-		/* You'll need a tail case. */
 	}
 	clock_t end = clock();
 	printf("Time taken: %Lf s\n", (long double)(end - start) / CLOCKS_PER_SEC);
@@ -128,7 +127,6 @@ long long int sum_simd_unrolled(unsigned int vals[NUM_ELEMS]) {
 			if(vals[i] > 127)
 				result += vals[i];
 		}
-		/* You'll need a tail case. */
 	}
 	clock_t end = clock();
 	printf("Time taken: %Lf s\n", (long double)(end - start) / CLOCKS_PER_SEC);
