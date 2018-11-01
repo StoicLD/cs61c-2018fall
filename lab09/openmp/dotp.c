@@ -12,7 +12,7 @@ double* gen_array(int n) {
 		array[i] = drand48();
 	return array;
 }
-
+/*
 double dotp_naive(double* x, double* y) {
 	double global_sum = 0.0;
 	#pragma omp parallel
@@ -24,16 +24,19 @@ double dotp_naive(double* x, double* y) {
 	}
 	return global_sum;
 }
-
+*/
 // EDIT THIS FUNCTION PART 1
 double dotp_manual_optimized(double* x, double* y) {
      double global_sum = 0.0;
 	#pragma omp parallel
 	{
+		double local_sum = 0;
 		#pragma omp for
-		for(int i=0; i<ARRAY_SIZE; i++)
-			#pragma omp critical
-				global_sum += x[i] * y[i];
+		for(int i=0; i<ARRAY_SIZE; i++){
+			local_sum += x[i] * y[i];
+		}
+		#pragma omp critical 
+		global_sum += local_sum;
 	}
 	return global_sum;
 }
@@ -43,10 +46,9 @@ double dotp_reduction_optimized(double* x, double* y) {
      double global_sum = 0.0;
 	#pragma omp parallel
 	{
-		#pragma omp for
+		#pragma omp for reduction(+:global_sum)
 		for(int i=0; i<ARRAY_SIZE; i++)
-			#pragma omp critical
-				global_sum += x[i] * y[i];
+			global_sum += x[i] * y[i];
 	}
 	return global_sum;
 }
@@ -95,7 +97,8 @@ int main() {
     }
   }
 
-  // Only run this once because it's too slow..
+ // Only run this once because it's too slow..
+/*
 	for(int i=1; i<=1; i++) {
 		omp_set_num_threads(i);
 		start_time = omp_get_wtime();
@@ -104,5 +107,6 @@ int main() {
 		run_time = omp_get_wtime() - start_time;
   	printf("Naive: %d thread(s) took %f seconds\n",i,run_time);
 	}
+*/
   return 0;
 }
